@@ -1,4 +1,4 @@
-![](https://cdn.midjourney.com/ed5b8675-5b50-44e8-8583-23d2e2a3f268/0_2.webp){position:absolute,left:-1%,width:102%,mix-blend-mode:multiply,top:1%}
+![](https://raw.githubusercontent.com/Vengrath97/Sons-of-Azalin/main/Images%20by%20Chapter/Title%20Page/Title%20Page.webp){position:absolute,left:-1%,width:102%,mix-blend-mode:multiply,top:1%}
 ::::::::::::::::::::::::::::
 
 {{wide,text-align:center,font-size:120px,color:darkgray,margin-left:-10%
@@ -8,17 +8,6 @@ of
 
 {{ &nbsp;}} Azalin
 }}
-<!--
-::::::::::::::
-{{Title,wide,text-align:center,font-size:120px,color:darkgray
-*Black Book   
-of   
-Azalin Rex*
-}}
--->
-
-
-![](https://cdn.discordapp.com/attachments/984632424610824222/1196226472080326726/vengrath_Sons_of_Azalin_DD_alternative_book_cover_by_Hydro84_or_9cac96fa-fc5c-48a0-8ecf-5437b8fcd6a4.png?ex=65b6dbb7&is=65a466b7&hm=f7078dbfcb11320cefd5ab31743f47702c54388f3cb9e8ddb8bf007edccf4e8e&){position:absolute,width:0%,top:-3%,left:-1%}
 \page
 ![](https://i.imgur.com/OYWQOHP.jpeg){position:absolute,width:202%,left:-1%,top:-1%}
 ![](https://cdn.discordapp.com/attachments/1060940549789589544/1204474845769768991/Map_of_Darkon_Robocza.png?ex=65d4dd9d&is=65c2689d&hm=7962b11ea11bb9dab1ee8f204cfca435384cfe43d38c3df3ce8f079351d96a2f&){position:absolute,width:202%,left:-1%,top:-1%}
@@ -257,8 +246,8 @@ Azalin Rex*
 
 \page
 
-{{imageMaskEdge1,--offset:5%,--rotation:180
-![](https://cdn.discordapp.com/attachments/984632424610824222/1196222652377993276/vengrath_Azalin_necromancer_DD_alternative_book_cover_by_Hydro8_4087b61f-bc49-4534-8c1c-6a93eb6a507a.png?ex=65b6d829&is=65a46329&hm=3a80f1de4459612dd6f5a52c8e6202acb1be2762aaa6a40180ba2d8275b13aaa&){position:absolute,top:-1%,left:-1%,width:102%,mix-blend-mode:multiply,filter:grayscale(0),filter:brightness(0.6)}
+{{imageMaskEdge1,--offset:8%,--rotation:180
+![](https://raw.githubusercontent.com/Vengrath97/Sons-of-Azalin/main/Images%20by%20Chapter/Preface/Chapter%20Header.webp){position:absolute,top:-1%,left:-1%,width:102%,mix-blend-mode:multiply,filter:grayscale(0),filter:brightness(0.6)}
 }}
 # <br>Preface
 In 2002, a young boy had picked up two large cardboard boxes with PC games from a metal bin in a local discount store - it was a 2 for 1 special offer, and even though he very much wanted to get more, he could only afford these two - carefully selected from a wide selection of choice, based on nothing more than cover art, little description on the back, and a couple of screen-shots presenting the gameplay. One of them, painted blue, with a knight commanding an assault on a mighty castle, and an army ammased form various fantasy creatures contained a strategy game - one of the legendary titles that shaped the genre for years to come. It was important for this boy, to a degree. The other box, pitch-black, with but a single depiction of a bleeding eye and a title that shaped this boys entire future.
@@ -291,8 +280,8 @@ You might want to make the adventure in Darkon even grander. A few guidelines i 
 {{pageNumber,auto}}
 {{footnote,color PREFACE }}
 \page
-{{imageMaskEdge1,--offset:5%,--rotation:180
-![](https://cdn.midjourney.com/3dbd0258-39da-4bd2-9db3-a478c8c1c328/0_3.webp){position:absolute,top:-10%,left:-1%,width:102%,mix-blend-mode:multiply,transform:scaleX(-1),filter:grayscale(0),filter:brightness(0.6)}
+{{imageMaskEdge1,--offset:8%,--rotation:180
+![](https://github.com/Vengrath97/Sons-of-Azalin/raw/main/Images%20by%20Chapter/Introduction/Chapter%20Header.webp){position:absolute,top:-10%,left:-1%,width:102%,mix-blend-mode:multiply,transform:scaleX(-1),filter:grayscale(0),filter:brightness(0.6)}
 }}
 
 
@@ -527,8 +516,8 @@ On the night that the Shadow fell.
 {{pageNumber,auto}}
 {{footnote INTRODUCTION }}
 \page
-{{imageMaskEdge1,--offset:5%,--rotation:180
-![](https://cdn.discordapp.com/attachments/984632424610824222/1196222644975042670/vengrath_Azalin_necromancer_DD_alternative_book_cover_by_Hydro8_b5741c5b-cf6a-4e78-a225-3381e3bfa11c.png?ex=65b6d827&is=65a46327&hm=05375feba25c50cb93726f9df5d53452bc3f9c51a662cb3448ac2b1ea2f57115&){position:absolute,top:-3%,left:-1%,width:102%,mix-blend-mode:multiply,filter:grayscale(0),filter:brightness(0.6)}
+{{imageMaskEdge1,--offset:8%,--rotation:180
+![](https://github.com/Vengrath97/Sons-of-Azalin/raw/main/Images%20by%20Chapter/Azalin%20Rex/Chapter%20Header.webp){position:absolute,top:-3%,left:-1%,width:102%,mix-blend-mode:multiply,filter:grayscale(0),filter:brightness(0.6)}
 }}
 
 # Chapter I <br> Azalin Rex
@@ -601,7 +590,7 @@ I like the idea of Irik being around the Demiplane. If I was DMing, meeting him 
 {{pageNumber,auto}}
 {{footnote,color CHAPTER 1 | AZALIN REX }}
 \page
-{{imageMaskEdge1,--offset:5%,--rotation:180
+{{imageMaskEdge1,--offset:8%,--rotation:180
 ![](X){position:absolute,top:-1%,left:-1%,width:102%,mix-blend-mode:multiply,filter:grayscale(0),filter:brightness(0.6)}
 }}
  
@@ -644,8 +633,8 @@ Spells that raise, create, or control the undead are stronger in Darkon. Each su
 \page
 
 
-{{imageMaskEdge1,--offset:5%,--rotation:180
-![](https://cdn.discordapp.com/attachments/984632424610824222/1196236942120075284/vengrath_Lich_castle_high_society_gothic_horror_DD_cover_art_by_ba284a3d-b8eb-4ac1-9d8c-d4465d78e95a.png?ex=65b6e578&is=65a47078&hm=0f7924b36c630895f7f8bd1176b3dc40eabbed27df5f4604790ad14494e50e4d&){position:absolute,top:-1%,left:-1%,width:102%,mix-blend-mode:multiply,filter:grayscale(0),filter:brightness(0.6)}
+{{imageMaskEdge1,--offset:8%,--rotation:180
+![](https://github.com/Vengrath97/Sons-of-Azalin/raw/main/Images%20by%20Chapter/Brautslava%20Instititute/Chapter%20Header.webp){position:absolute,top:-1%,left:-1%,width:102%,mix-blend-mode:multiply,filter:grayscale(0),filter:brightness(0.6)}
 }}
  
 # Chapter III<br> Brautslava Institute
@@ -661,7 +650,7 @@ The most knowledgable, but insane of the Fraternity of Shadows. (The Darkness II
 {{footnote CHAPTER 3 | Brautslava Institute }}
 \page
 {{imageMaskEdge7,--offset:4%,--rotation:90
-  ![](https://cdn.discordapp.com/attachments/1197123956117876796/1203813416570191882/vengrath_white_background_d803701e-fae0-481c-b971-f975744a9712.png?ex=65d2759c&is=65c0009c&hm=03204ae3fd5b9068e7527e6b97e735e23e64167edf1c271786f876e85071db80&){height:112%,left:-30%,top:-1%,filter:brightness(0.6)}
+  ![](https://github.com/Vengrath97/Sons-of-Azalin/blob/main/Images%20by%20Chapter/Brautslava%20Instititute/Johnny%20Powell.png?raw=true){height:112%,left:-30%,top:-1%,filter:brightness(0.6)}
 }}
 
 \column
@@ -677,8 +666,8 @@ The most knowledgable, but insane of the Fraternity of Shadows. (The Darkness II
 {{footnote CHAPTER 3 | Brautslava Institute }}
 \page
 
-{{imageMaskEdge1,--offset:5%,--rotation:180
-![](https://cdn.discordapp.com/attachments/984632424610824222/1196929128704778366/vengrath_Lands_of_the_Necromancer_DD_alternative_book_cover_by__5cc9723a-6a01-4240-8bc9-321af469218e.png?ex=65b96a1e&is=65a6f51e&hm=ceeee45743d0fe8119c43ebd261abb13eea67de2621b9bd950f2ab257a7dad8e&){position:absolute,top:-1%,left:-1%,width:102%,mix-blend-mode:multiply,filter:brightness(0.6)}
+{{imageMaskEdge1,--offset:8%,--rotation:180
+![](){position:absolute,top:-1%,left:-1%,width:102%,mix-blend-mode:multiply,filter:brightness(0.6)}
 }}
  
 # Chapter IV<br> Castle Avernus
@@ -697,31 +686,31 @@ The most knowledgable, but insane of the Fraternity of Shadows. (The Darkness II
 \page
 {{imageMaskEdge5,--offset:0%,--rotation:270
 
-  ![](https://cdn.midjourney.com/73b4e05d-cfd2-4f4e-a3d8-44732265c8a1/0_3.webp){position:absolute,height:102%,z-index:2,mix-blend-mode:multiply,right:-20%,top:-1%,filter:grayscale(0%),filter:brightness(0.6)}
+  ![](https://github.com/Vengrath97/Sons-of-Azalin/raw/main/Images%20by%20Chapter/%23%20Other/Nobleman.webp){position:absolute,height:102%,z-index:2,mix-blend-mode:multiply,right:-20%,top:-1%,filter:grayscale(0%),filter:brightness(0.6)}
 }}
 
 
+
+
+
+{{pageNumber,auto}}
+{{footnote CHAPTER 4 | CASTLE AVERNUS }}
+\page
+
+{{pageNumber,auto}}
+{{footnote CHAPTER 4 | CASTLE AVERNUS }}
+\page
 
 {{imageMaskEdge5,--offset:0%,--rotation:270
 
-  ![](https://cdn.midjourney.com/e3631509-ea40-40ae-a11c-50aa120e7365/0_1.png){position:absolute,height:102%,z-index:2,mix-blend-mode:multiply,right:-20%,top:-1%,filter:grayscale(0%),filter:brightness(0.6)}
+  ![](https://github.com/Vengrath97/Sons-of-Azalin/blob/main/Images%20by%20Chapter/%23%20Other/Woman.png?raw=true){position:absolute,height:102%,z-index:2,mix-blend-mode:multiply,right:-20%,top:-1%,filter:grayscale(0%),filter:brightness(0.6)}
 }}
-
-
 {{pageNumber,auto}}
 {{footnote CHAPTER 4 | CASTLE AVERNUS }}
 \page
 
-{{pageNumber,auto}}
-{{footnote CHAPTER 4 | CASTLE AVERNUS }}
-\page
-
-{{pageNumber,auto}}
-{{footnote CHAPTER 4 | CASTLE AVERNUS }}
-\page
-
-{{imageMaskEdge1,--offset:5%,--rotation:180
-![](https://cdn.discordapp.com/attachments/1197123956117876796/1204532181997719613/vengrath_portrait_book_cover_illustration_by_jean_-_baptiste_mo_d26be4d2-c50f-4033-a163-c5bd3dafa58a.png?ex=65d51303&is=65c29e03&hm=39a505ba8c566faab4d8f43bda99ea85b7c02df93ce98ce0dabea0eb6b2b0095&){position:absolute,top:-1%,left:-1%,width:102%,mix-blend-mode:multiply,filter:brightness(0.6)}
+{{imageMaskEdge1,--offset:8%,--rotation:180
+![](){position:absolute,top:-1%,left:-1%,width:102%,mix-blend-mode:multiply,filter:brightness(0.6)}
 }}
  
 # Chapter V<br> Corvia
@@ -749,8 +738,8 @@ The most knowledgable, but insane of the Fraternity of Shadows. (The Darkness II
 {{footnote CHAPTER 5 | CORVIA }}
 \page
 
-{{imageMaskEdge1,--offset:5%,--rotation:180
-![](https://cdn.midjourney.com/025d4b68-1c37-43d2-8386-2f87a1d738c5/0_1.png){position:absolute,top:-20%,left:-1%,width:102%,mix-blend-mode:multiply,filter:brightness(0.6)}
+{{imageMaskEdge1,--offset:8%,--rotation:180
+![](){position:absolute,top:-20%,left:-1%,width:102%,mix-blend-mode:multiply,filter:brightness(0.6)}
 }}
  
 # Chapter VI<br> Creeana
@@ -773,8 +762,8 @@ The most knowledgable, but insane of the Fraternity of Shadows. (The Darkness II
 {{pageNumber,auto}}
 {{footnote CHAPTER 6 | CREEANA }}
 \page
-{{imageMaskEdge1,--offset:5%,--rotation:180
-![](https://cdn.midjourney.com/025d4b68-1c37-43d2-8386-2f87a1d738c5/0_1.png){position:absolute,top:-20%,left:-1%,width:102%,mix-blend-mode:multiply,filter:brightness(0.6)}
+{{imageMaskEdge1,--offset:8%,--rotation:180
+![](){position:absolute,top:-20%,left:-1%,width:102%,mix-blend-mode:multiply,filter:brightness(0.6)}
 }}
  
 # Chapter VII<br> Delagia
@@ -801,8 +790,8 @@ The most knowledgable, but insane of the Fraternity of Shadows. (The Darkness II
 \page
 
 
-{{imageMaskEdge1,--offset:5%,--rotation:180
-![](https://cdn.discordapp.com/attachments/984632424610824222/1196234543640875058/vengrath_Il_Aluk_undead_city_DD_by_Hydro84_5e298cbd-2cad-46ee-9ccb-77a7fc0618d6.png?ex=65b6e33c&is=65a46e3c&hm=b95c77da725a287ca0ec80efd4677e3872dd7f7d9992258aa3429afb8ffaa9f0&){position:absolute,top:-1%,left:-1%,width:102%,mix-blend-mode:multiply,filter:grayscale(0)}
+{{imageMaskEdge1,--offset:8%,--rotation:180
+![](){position:absolute,top:-1%,left:-1%,width:102%,mix-blend-mode:multiply,filter:grayscale(0)}
 }}
  
 # Chapter VIII<br> Il Aluk
@@ -856,7 +845,7 @@ The most knowledgable, but insane of the Fraternity of Shadows. (The Darkness II
 \page
 {{imageMaskEdge6,--offset:0%,--rotation:0
 
-  ![](https://cdn.midjourney.com/41a226b6-074f-47aa-87e8-9c7737c0146e/0_1.webp){position:absolute,left:-1%,bottom:-50%,width:202%,filter:grayscale(1),filter:brightness(0.6)}
+  ![](https://github.com/Vengrath97/Sons-of-Azalin/raw/main/Images%20by%20Chapter/Il%20Aluk/Vampire%20High%20Society.webp){position:absolute,left:-1%,bottom:-50%,width:202%,filter:grayscale(1),filter:brightness(0.6)}
 }}
 
 {{pageNumber,auto}}
@@ -864,7 +853,7 @@ The most knowledgable, but insane of the Fraternity of Shadows. (The Darkness II
 \page
 {{imageMaskEdge6,--offset:10%,--rotation:10
 
-  ![](https://cdn.midjourney.com/41a226b6-074f-47aa-87e8-9c7737c0146e/0_1.webp){position:absolute,left:-101%,bottom:-50%,width:202%,filter:grayscale(1),filter:brightness(0.6)}
+  ![](https://github.com/Vengrath97/Sons-of-Azalin/raw/main/Images%20by%20Chapter/Il%20Aluk/Vampire%20High%20Society.webp){position:absolute,left:-101%,bottom:-50%,width:202%,filter:grayscale(1),filter:brightness(0.6)}
 }}
 
 {{pageNumber,auto}}
@@ -872,8 +861,8 @@ The most knowledgable, but insane of the Fraternity of Shadows. (The Darkness II
 \page
 
 
-{{imageMaskEdge1,--offset:5%,--rotation:180
-![](https://cdn.discordapp.com/attachments/984632424610824222/1196224973405175828/vengrath_Lich_of_Castle_Avernus_necromancer_DD_alternative_book_b43c21b5-df43-4fb1-b9d3-66401fd7d927.png?ex=65b6da52&is=65a46552&hm=1e06a3d43e9214e01a3407f05c0225ea7a3f4c5b5c41a8687881f2b31b987620&){position:absolute,top:-1%,left:-1%,width:102%,mix-blend-mode:multiply,filter:grayscale(0),filter:brightness(0.6)}
+{{imageMaskEdge1,--offset:8%,--rotation:180
+![](https://github.com/Vengrath97/Sons-of-Azalin/raw/main/Images%20by%20Chapter/Karg/Chapter%20Header.webp){position:absolute,top:-1%,left:-1%,width:102%,mix-blend-mode:multiply,filter:grayscale(0),filter:brightness(0.6)}
 }}
  
 # Chapter IX<br> Karg
@@ -902,8 +891,8 @@ The most knowledgable, but insane of the Fraternity of Shadows. (The Darkness II
 {{pageNumber,auto}}
 {{footnote CHAPTER 9 | KARG }}
 \page
-{{imageMaskEdge1,--offset:5%,--rotation:180
-![](https://cdn.discordapp.com/attachments/1205968655867846666/1205971828875731034/vengrath_portrait_book_cover_illustration_by_jean_-_baptiste_mo_71ec34cf-6c17-4eab-81b9-fdde341e0eb7.png?ex=65da4fc9&is=65c7dac9&hm=01b49ebfedf8550dcbaa1373f579b5e0c6f3f3ba9125c00aba647bad2fe53f9f&){position:absolute,top:-6%,left:-10%,width:112%,mix-blend-mode:multiply,filter:grayscale(0),filter:brightness(0.6)}
+{{imageMaskEdge1,--offset:8%,--rotation:180
+![](https://github.com/Vengrath97/Sons-of-Azalin/blob/main/Images%20by%20Chapter/Martira%20Bay/Martira%20Bay.png?raw=true){position:absolute,top:-6%,left:-10%,width:112%,mix-blend-mode:multiply,filter:grayscale(0),filter:brightness(0.6)}
 }}
  
 # Chapter X<br> Martira Bay
@@ -961,8 +950,8 @@ Lady Mayor **Baroness Karimana Reldkasen** is a competent, ambitious woman who l
 {{pageNumber,auto}}
 {{footnote CHAPTER 10 | MATRIRA BAY }}
 \page
-{{imageMaskEdge1,--offset:5%,--rotation:180
-![](https://cdn.midjourney.com/025d4b68-1c37-43d2-8386-2f87a1d738c5/0_1.png){position:absolute,top:-20%,left:-1%,width:102%,mix-blend-mode:multiply,filter:brightness(0.6)}
+{{imageMaskEdge1,--offset:8%,--rotation:180
+![](){position:absolute,top:-20%,left:-1%,width:102%,mix-blend-mode:multiply,filter:brightness(0.6)}
 }}
  
 # Chapter XI<br> Maykle
@@ -992,8 +981,8 @@ Lady Mayor **Baroness Karimana Reldkasen** is a competent, ambitious woman who l
 {{footnote CHAPTER 11 | MAYKLE }}
 \page
 
-{{imageMaskEdge1,--offset:5%,--rotation:180
-![](https://cdn.midjourney.com/025d4b68-1c37-43d2-8386-2f87a1d738c5/0_1.png){position:absolute,top:-20%,left:-1%,width:102%,mix-blend-mode:multiply,filter:brightness(0.6)}
+{{imageMaskEdge1,--offset:8%,--rotation:180
+![](){position:absolute,top:-20%,left:-1%,width:102%,mix-blend-mode:multiply,filter:brightness(0.6)}
 }}
  
 # Chapter XII<br> Mayvin
@@ -1055,8 +1044,8 @@ Lady Mayor **Baroness Karimana Reldkasen** is a competent, ambitious woman who l
 {{footnote CHAPTER 13 | MOUNT NYID }}
 \page
 
-{{imageMaskEdge1,--offset:5%,--rotation:180
-![](https://cdn.midjourney.com/025d4b68-1c37-43d2-8386-2f87a1d738c5/0_1.png){position:absolute,top:-20%,left:-1%,width:102%,mix-blend-mode:multiply,filter:brightness(0.6)}
+{{imageMaskEdge1,--offset:8%,--rotation:180
+![](){position:absolute,top:-20%,left:-1%,width:102%,mix-blend-mode:multiply,filter:brightness(0.6)}
 }}
 # Chapter XIV<br> Nartok
 ## Approaching the City
@@ -1094,8 +1083,8 @@ Lady Mayor **Baroness Karimana Reldkasen** is a competent, ambitious woman who l
 {{footnote CHAPTER 14 | NARTOK }}
 \page
 
-{{imageMaskEdge1,--offset:5%,--rotation:180
-![](https://cdn.midjourney.com/ae6a8e16-5e6c-410e-a5da-3bd1e4265a8f/0_2.png){position:absolute,top:-20%,left:-1%,width:102%,mix-blend-mode:multiply,filter:grayscale(0)}
+{{imageMaskEdge1,--offset:8%,--rotation:180
+![](https://github.com/Vengrath97/Sons-of-Azalin/blob/main/Images%20by%20Chapter/Neblus/Chapter%20Header.png?raw=true){position:absolute,top:-20%,left:-1%,width:102%,mix-blend-mode:multiply,filter:grayscale(0)}
 }}
 # Chapter XV<br> Neblus
 ## Approaching the City
@@ -1127,8 +1116,8 @@ Lady Mayor **Baroness Karimana Reldkasen** is a competent, ambitious woman who l
 {{footnote CHAPTER 15 | NEBLUS }}
 \page
 
-{{imageMaskEdge1,--offset:5%,--rotation:180
-![](https://cdn.midjourney.com/025d4b68-1c37-43d2-8386-2f87a1d738c5/0_1.png){position:absolute,top:-20%,left:-1%,width:102%,mix-blend-mode:multiply,filter:brightness(0.6)}
+{{imageMaskEdge1,--offset:8%,--rotation:180
+![](){position:absolute,top:-20%,left:-1%,width:102%,mix-blend-mode:multiply,filter:brightness(0.6)}
 }}
 # Chapter XVI<br> Nevuchar Springs
 ## Approaching the Town
@@ -1157,8 +1146,8 @@ Lady Mayor **Baroness Karimana Reldkasen** is a competent, ambitious woman who l
 {{footnote CHAPTER 16 | NEVUCHAR SPRINGS }}
 \page
 
-{{imageMaskEdge1,--offset:5%,--rotation:180
-![](https://cdn.midjourney.com/025d4b68-1c37-43d2-8386-2f87a1d738c5/0_1.png){position:absolute,top:-20%,left:-1%,width:102%,mix-blend-mode:multiply,filter:brightness(0.6)}
+{{imageMaskEdge1,--offset:8%,--rotation:180
+![](){position:absolute,top:-20%,left:-1%,width:102%,mix-blend-mode:multiply,filter:brightness(0.6)}
 }}
 # Chapter XVII<br> Rivalis
 ## Approaching the City
@@ -1190,13 +1179,8 @@ Lady Mayor **Baroness Karimana Reldkasen** is a competent, ambitious woman who l
 {{pageNumber,auto}}
 {{footnote CHAPTER 17 | RIVALIS }}
 \page
-
-{{imageMaskEdge1,--offset:5%,--rotation:180
-![](https://cdn.discordapp.com/attachments/984632424610824222/1196237786735448104/vengrath_Baronial_Tower_gothic_horror_DD_cover_art_by_Hydro84_ca5831c6-15d4-47fe-9978-a91aba362647.png?ex=65b6e641&is=65a47141&hm=9c6ade0111bd2c609d4669981d345d5803f7ed916b2e8984ebf04b39c205c59c&){position:absolute,top:-1%,left:-1%,width:102%,mix-blend-mode:multiply,filter:brightness(0.6)}
-}}
-
-{{imageMaskEdge1,--offset:5%,--rotation:180
-![](https://cdn.discordapp.com/attachments/984632424610824222/1196237448288673822/vengrath_Baronial_Tower_gothic_horror_DD_cover_art_by_Hydro84_e2fa360b-93a3-44ed-a220-6aedaacf7825.png?ex=65b6e5f0&is=65a470f0&hm=578285ba10f04e77969a99d53162b1e02a117e16b72d91b8e489507115db9148&){position:absolute,top:-1%,left:-1%,width:102%,mix-blend-mode:multiply,filter:brightness(0.6)}
+{{imageMaskEdge1,--offset:8%,--rotation:180
+![](){position:absolute,top:-1%,left:-1%,width:102%,mix-blend-mode:multiply,filter:brightness(0.6)}
 }}
 
 # Chapter XVIII<br> Rookhausen
@@ -1223,14 +1207,11 @@ Lady Mayor **Baroness Karimana Reldkasen** is a competent, ambitious woman who l
 \page
 
 
-{{imageMaskEdge5,--offset:0%,--rotation:270
-  ![](https://cdn.midjourney.com/258e3c89-59f0-461d-9dcf-474a43df9a33/0_2.png){position:absolute,height:102%,z-index:2,mix-blend-mode:multiply,right:-20%,top:-1%,filter:grayscale(100%),filter:brightness(0.6)}
-}}
 {{pageNumber,auto}}
 {{footnote CHAPTER 18 | ROOKHAUSEN }}
 \page
-{{imageMaskEdge1,--offset:5%,--rotation:180
-![](https://cdn.midjourney.com/025d4b68-1c37-43d2-8386-2f87a1d738c5/0_1.png){position:absolute,top:-20%,left:-1%,width:102%,mix-blend-mode:multiply,filter:brightness(0.6)}
+{{imageMaskEdge1,--offset:8%,--rotation:180
+![](){position:absolute,top:-20%,left:-1%,width:102%,mix-blend-mode:multiply,filter:brightness(0.6)}
 }}
 # Chapter XIX<br> Sidnar
 ## Approaching the Town
@@ -1255,12 +1236,8 @@ Lady Mayor **Baroness Karimana Reldkasen** is a competent, ambitious woman who l
 {{footnote CHAPTER 19 | SIDNAR }}
 \page
   
-{{imageMaskEdge1,--offset:5%,--rotation:180
-![](https://cdn.discordapp.com/attachments/984632424610824222/1196240930617962636/vengrath_Tempe_Falls_of_Darkon_gothic_horror_DD_cover_art_by_Hy_04eb2247-48c3-43e7-927f-c1c9b3769bc2.png?ex=65b6e92e&is=65a4742e&hm=64e084b07dd9d2101cd9c37731a76509c56bed790f13f949e38469aabf6cd377&){position:absolute,top:-1%,left:-1%,width:102%,mix-blend-mode:multiply}
-}}
-
-{{imageMaskEdge1,--offset:5%,--rotation:180
-![](https://cdn.discordapp.com/attachments/984632424610824222/1196239611471601784/vengrath_Tempe_Falls_of_Darkon_gothic_horror_DD_cover_art_by_Hy_76d93745-b589-4d97-9f2a-d1e1b8f966ea.png?ex=65b6e7f4&is=65a472f4&hm=307e1ac2c2eaf33738f454fb39eded19a94e4c3573f4ee3e6690839278da8aca&){position:absolute,top:-1%,left:-1%,width:102%,mix-blend-mode:multiply,filter:grayscale(0)}
+{{imageMaskEdge1,--offset:8%,--rotation:180
+![](){position:absolute,top:-1%,left:-1%,width:102%,mix-blend-mode:multiply}
 }}
 # Chapter XIX<br> Tempe Falls
 ## Approaching the Town
@@ -1285,8 +1262,8 @@ Lady Mayor **Baroness Karimana Reldkasen** is a competent, ambitious woman who l
 {{footnote CHAPTER 20 | TEMPE FALLS }}
 \page
   
-{{imageMaskEdge1,--offset:5%,--rotation:180
-![](https://cdn.midjourney.com/025d4b68-1c37-43d2-8386-2f87a1d738c5/0_1.png){position:absolute,top:-20%,left:-1%,width:102%,mix-blend-mode:multiply,filter:brightness(0.6)}
+{{imageMaskEdge1,--offset:8%,--rotation:180
+![](){position:absolute,top:-20%,left:-1%,width:102%,mix-blend-mode:multiply,filter:brightness(0.6)}
 }}
 # Chapter XXI<br> Tidemore
 ## Approaching the Village
@@ -1312,8 +1289,8 @@ Lady Mayor **Baroness Karimana Reldkasen** is a competent, ambitious woman who l
 {{pageNumber,auto}}
 {{footnote CHAPTER 21 | TIDEMORE }}
 \page
-{{imageMaskEdge1,--offset:5%,--rotation:180
-![](https://cdn.midjourney.com/025d4b68-1c37-43d2-8386-2f87a1d738c5/0_1.png){position:absolute,top:-20%,left:-1%,width:102%,mix-blend-mode:multiply,filter:brightness(0.6)}
+{{imageMaskEdge1,--offset:8%,--rotation:180
+![](){position:absolute,top:-20%,left:-1%,width:102%,mix-blend-mode:multiply,filter:brightness(0.6)}
 }}
 # Chapter XXII<br> Viaki
 ## Approaching the City
@@ -1346,23 +1323,16 @@ Lady Mayor **Baroness Karimana Reldkasen** is a competent, ambitious woman who l
 {{pageNumber,auto}}
 {{footnote CHAPTER 22 | VIAKI }}
 \page
-
-\page
-
-\page
 ![](https://i.imgur.com/OYWQOHP.jpeg){position:absolute,width:202%,left:-1%,top:-1%}
-![](https://cdn.discordapp.com/attachments/1060940549789589544/1204474845769768991/Map_of_Darkon_Robocza.png?ex=65d4dd9d&is=65c2689d&hm=7962b11ea11bb9dab1ee8f204cfca435384cfe43d38c3df3ce8f079351d96a2f&){position:absolute,width:202%,left:-1%,top:-1%}
-
 {{pageNumber,auto}}
 {{footnote APPENDIX X | IMPORTANT CHARACTERS }}
 \page
 ![](https://i.imgur.com/OYWQOHP.jpeg){position:absolute,width:202%,left:-101%,top:-1%}
-![](https://cdn.discordapp.com/attachments/1060940549789589544/1204474845769768991/Map_of_Darkon_Robocza.png?ex=65d4dd9d&is=65c2689d&hm=7962b11ea11bb9dab1ee8f204cfca435384cfe43d38c3df3ce8f079351d96a2f&){position:absolute,width:202%,left:-101%,top:-1%}
 {{pageNumber,auto}}
 {{footnote APPENDIX X | IMPORTANT CHARACTERS }}
 \page
-{{imageMaskEdge1,--offset:5%,--rotation:180
-![](https://cdn.discordapp.com/attachments/1197123956117876796/1205114682344476732/vengrath_landscape_book_cover_illustration_by_jean_-_baptiste_m_a2a3a37e-437d-4ead-9573-2f831a27d92f.png?ex=65d73182&is=65c4bc82&hm=e16760bd6284bdb1be64bc1027c55bc19b54b5a005a9bdcbee6bee4bd4a35525&){position:absolute,top:-1%,left:-1%,width:102%,mix-blend-mode:multiply,filter:brightness(0.6)}
+{{imageMaskEdge1,--offset:8%,--rotation:180
+![](https://github.com/Vengrath97/Sons-of-Azalin/blob/main/Images%20by%20Chapter/Appendix%20Bestiary/Chapter%20Header.png?raw=true){position:absolute,top:-1%,left:-1%,width:102%,mix-blend-mode:multiply,filter:brightness(0.6)}
 }}
 # <br>Bestiary
 
@@ -1531,8 +1501,8 @@ Vampire in it's bat form can take the same lair actions as it's Vampire form, un
 {{footnote APPENDIX X | BESTIARY }}
 \page
 
-{{imageMaskEdge1,--offset:5%,--rotation:180
-![](https://cdn.discordapp.com/attachments/1197123956117876796/1204536317459828899/vengrath_white_fur_c85a2700-7fab-4c9d-8b42-d75028309641.png?ex=65d516dd&is=65c2a1dd&hm=6bee87e6bc727f8d9d2bfaffb7a13a9cd7ab6bcc17b4915ec43b0ffd917374d9&){position:absolute,top:-1%,left:-1%,width:102%,mix-blend-mode:multiply,filter:brightness(0.6)}
+{{imageMaskEdge1,--offset:8%,--rotation:180
+![](https://github.com/Vengrath97/Sons-of-Azalin/blob/main/Images%20by%20Chapter/Appendix%20Characters/Chapter%20Header.png?raw=true){position:absolute,top:-1%,left:-1%,width:102%,mix-blend-mode:multiply,filter:brightness(0.6)}
 }}
 # <br>Important Characters
 
@@ -1751,16 +1721,9 @@ Vampire in it's bat form can take the same lair actions as it's Vampire form, un
 {{pageNumber,auto}}
 {{footnote APPENDIX X | IMPORTANT CHARACTERS }}
 \page
-
-
 {{imageMaskEdge4,--offset:4%,--rotation:90
-![](https://cdn.discordapp.com/attachments/1197123956117876796/1203775349876461649/vengrath_portrait_book_cover_illustration_by_jean_-_baptiste_mo_218534c7-86b1-4b45-8ff5-9a7390c97cba.png?ex=65d25228&is=65bfdd28&hm=6dbff68e4b7a3cf53628c02076a563d344618689d121fe753f79457071dffe0d&) {position:absolute,height:125%,left:-30%,top:-1%,filter:grayscale(0),filter:brightness(0.6)}
+![](https://github.com/Vengrath97/Sons-of-Azalin/blob/main/Images%20by%20Chapter/Appendix%20Characters/Damon%20Skragg.png?raw=true) {position:absolute,height:125%,left:-30%,top:-1%,filter:grayscale(0),filter:brightness(0.6)}
 }}
-
-{{imageMaskEdge4,--offset:4%,--rotation:90
-![](https://cdn.discordapp.com/attachments/1197123956117876796/1203775337536954478/vengrath_portrait_book_cover_illustration_by_jean_-_baptiste_mo_8624cdeb-1faf-4b63-a719-a5215a013aff.png?ex=65d25225&is=65bfdd25&hm=4cd827cd6b72bd2f8ee2f990316a710e9ad430747478b84c4f97e1094176adb7&) {position:absolute,height:125%,left:-30%,top:-1%,filter:grayscale(0),filter:brightness(0.6)}
-}}
-
 \column
 
 ## Damon Skragg,
@@ -1858,12 +1821,9 @@ On initiative count 20 (losing initiative ties), Damon takes a lair action to ca
 {{pageNumber,auto}}
 {{footnote APPENDIX X | IMPORTANT CHARACTERS }}
 \page
-
-{{imageMaskEdge1,--offset:5%,--rotation:90
-  ![](https://cdn.discordapp.com/attachments/1197123956117876796/1203781869708116089/vengrath_portrait_book_cover_illustration_by_jean_-_baptiste_mo_c5b0ec75-2189-4bc7-ba3b-552aaec0689b.png?ex=65d2583a&is=65bfe33a&hm=1d45bb8bd64630b388d461bc064af7a812c7a3555afd0d2bfcab7846454f639a&){position:absolute,height:125%,left:-30%,top:-1%,filter:grayscale(0),filter:brightness(0.6)}
+{{imageMaskEdge1,--offset:4%,--rotation:90
+  ![](https://github.com/Vengrath97/Sons-of-Azalin/blob/main/Images%20by%20Chapter/Appendix%20Characters/Yako%20Vormoff.png?raw=true){position:absolute,height:125%,left:-30%,top:-1%,filter:grayscale(0),filter:brightness(0.6)}
 }}
-
-
 \column
 ## Yako Vormoff
 ***Favored Vassalich,   
@@ -1899,11 +1859,9 @@ Visual Description
 {{pageNumber,auto}}
 {{footnote APPENDIX X | IMPORTANT CHARACTERS }}
 \page
-{{imageMaskEdge1,--offset:5%,--rotation:90
-  ![](https://cdn.midjourney.com/581a8e2d-68c6-46bd-b62a-3919cda88457/0_3.webp){height:102%,bottom:-1%,left:-19%,transform:scaleX(-1),filter:grayscale(0),filter:brightness(0.6)}
+{{imageMaskEdge1,--offset:4%,--rotation:90
+  ![](https://github.com/Vengrath97/Sons-of-Azalin/raw/main/Images%20by%20Chapter/Appendix%20Characters/Lowellyn%20Dachine.webp){height:102%,bottom:-1%,left:-19%,transform:scaleX(-1),filter:grayscale(0),filter:brightness(0.6)}
 }}
-
-
 \column
 ## Lowellyn Dachine
 ***Clone of Azalin Rex,  
@@ -1938,14 +1896,9 @@ Visual Description
 {{pageNumber,auto}}
 {{footnote APPENDIX X | IMPORTANT CHARACTERS }}
 \page
-{{imageMaskEdge1,--offset:5%,--rotation:90
-  ![](https://cdn.discordapp.com/attachments/1197123956117876796/1203879159860961300/vengrath_portrait_book_cover_illustration_by_jean_-_baptiste_mo_78394cb0-0be7-4124-9288-7947563d5a55.png?ex=65d2b2d6&is=65c03dd6&hm=6406d437de022bfdfa9a6aa002bef4b71c754f3242661fcfb6af3a92ac0351a5&){height:102%,bottom:-1%,left:-20%,transform:scaleX(-1)}
+{{imageMaskEdge1,--offset:4%,--rotation:90
+  ![](https://github.com/Vengrath97/Sons-of-Azalin/blob/main/Images%20by%20Chapter/Appendix%20Characters/Beryl%20Silvertress.png?raw=true){height:102%,bottom:-1%,left:-20%,transform:scaleX(-1),filter:grayscale(0),filter:brightness(0.6)}
 }}
-{{imageMaskEdge1,--offset:5%,--rotation:90
-  ![](https://cdn.discordapp.com/attachments/1197123956117876796/1203880348526706738/vengrath_portrait_book_cover_illustration_by_jean_-_baptiste_mo_a51faa83-7bcf-4d48-b1f6-b46ce04b307d.png?ex=65d2b3f2&is=65c03ef2&hm=5e9fd75f22cb37e60bd0211d0e2809480889d4ea4d530ee995ba9a9a71cdaea8&){height:102%,bottom:-1%,left:-20%,transform:scaleX(-1),filter:grayscale(0),filter:brightness(0.6)}
-}}
-
-
 \column
 ## Beryl Silvertress
 ***Hulzurdan,  
@@ -1981,8 +1934,8 @@ Visual Description
 {{pageNumber,auto}}
 {{footnote APPENDIX X | IMPORTANT CHARACTERS }}
 \page
-{{imageMaskEdge1,--offset:5%,--rotation:90
-  ![](https://cdn.discordapp.com/attachments/1197123956117876796/1203880872982614077/vengrath_portrait_book_cover_illustration_by_jean_-_baptiste_mo_f337883e-4c68-49cd-8dbc-0e5008b7d940.png?ex=65d2b46f&is=65c03f6f&hm=cab882978e2a27ce2c8c6b9271998fe4273a52cb6a787bc2fc7ac973c7d03034&){height:102%,bottom:-1%,left:-20%,transform:scaleX(-1),filter:grayscale(0),filter:brightness(0.6)}
+{{imageMaskEdge1,--offset:4%,--rotation:90
+  ![](https://github.com/Vengrath97/Sons-of-Azalin/blob/main/Images%20by%20Chapter/Appendix%20Characters/Trillen%20Mistwalker.png?raw=true){height:102%,bottom:-1%,left:-20%,transform:scaleX(-1),filter:grayscale(0),filter:brightness(0.6)}
 }}
 
 \column
@@ -2019,8 +1972,8 @@ Visual Description
 {{pageNumber,auto}}
 {{footnote APPENDIX X | IMPORTANT CHARACTERS }}
 \page
-{{imageMaskEdge1,--offset:5%,--rotation:90
-  ![](https://cdn.midjourney.com/daec187a-db42-4ef0-a062-c32f210dce64/0_3.webp){height:102%,bottom:-1%,left:-20%,transform:scaleX(-1),filter:grayscale(0),filter:brightness(0.6)}
+{{imageMaskEdge1,--offset:4%,--rotation:90
+  ![](https://github.com/Vengrath97/Sons-of-Azalin/raw/main/Images%20by%20Chapter/Appendix%20Characters/Glennis%20McFadden.webp){height:102%,bottom:-1%,left:-20%,transform:scaleX(-1),filter:grayscale(0),filter:brightness(0.6)}
 }}
 
 
@@ -2058,11 +2011,9 @@ Visual Description
 {{pageNumber,auto}}
 {{footnote APPENDIX X | IMPORTANT CHARACTERS }}
 \page
-{{imageMaskEdge1,--offset:5%,--rotation:90
-  ![](https://cdn.midjourney.com/27cf01d9-d946-4c69-9633-663e82e32815/0_0.webp){height:102%,bottom:-1%,left:-55%,transform:scaleX(-1),filter:grayscale(0),filter:brightness(0.6)}
+{{imageMaskEdge1,--offset:4%,--rotation:90
+  ![](https://github.com/Vengrath97/Sons-of-Azalin/raw/main/Images%20by%20Chapter/Appendix%20Characters/Galf%20Kloggin.webp){height:102%,bottom:-1%,left:-55%,transform:scaleX(-1),filter:grayscale(0),filter:brightness(0.6)}
 }}
-
-
 \column
 ## Galf Kloggin TODO
 ***Halfling Wererat,  
@@ -2084,14 +2035,12 @@ Visual Description
 **Allies:** ::
 **Enemies:** ::
 :
-
 {{note
 ##### Tips:
 * Incorporate elements from Darkon, such as the Forest of Shadows, lycanthropic lore, and the haunting influence of the Whistling Fiend.
 * Create encounters with Galf's gang, including werebears, werewolves, and wererats.
 * Explore the theme of betrayal and the consequences of dark powers in Ravenloft.
 }}
-
 
 {{pageNumber,auto}}
 {{footnote APPENDIX X | IMPORTANT CHARACTERS }}
@@ -2137,14 +2086,12 @@ Galf can take 3 legendary actions, choosing from the options below. Only one leg
 **Venomous Strike (Costs 2 Actions).** Galf makes a Poisoned Dagger attack against a creature within reach.
 }}
 
-
-
 {{pageNumber,auto}}
 {{footnote APPENDIX X | IMPORTANT CHARACTERS }}
 \page
 
-{{imageMaskEdge1,--offset:5%,--rotation:90
-  ![](https://cdn.discordapp.com/attachments/1197123956117876796/1203882777465061487/vengrath_portrait_book_cover_illustration_by_jean_-_baptiste_mo_6f9a57fe-d4b9-4783-af68-3d68eed5eb8c.png?ex=65d2b635&is=65c04135&hm=b25ea67cbb45add758bd335eef38f3aea25d01b863bd3357ec279ed4c4d9d7a9&){height:112%,top:-1%,left:-35%,transform:scaleX(-1),filter:grayscale(0),filter:brightness(0.6)}
+{{imageMaskEdge1,--offset:4%,--rotation:90
+  ![](https://github.com/Vengrath97/Sons-of-Azalin/blob/main/Images%20by%20Chapter/Appendix%20Characters/Azalin%20Rex.png?raw=true){height:112%,top:-1%,left:-35%,transform:scaleX(-1),filter:grayscale(0),filter:brightness(0.6)}
 }}
 
 
@@ -2256,9 +2203,8 @@ If Azalin's Darklord trait is active, he can use the options below as legendary 
 {{footnote APPENDIX X | IMPORTANT CHARACTERS }}
 \page
 {{imageMaskEdge4,--offset:4%,--rotation:90
-![](https://cdn.discordapp.com/attachments/1197123956117876796/1205518474596581427/vengrath_book_cover_illustration_by_jean_-_baptiste_monge_of_a__8532bcc9-5821-41bf-8d0b-955fd9838587.png?ex=65d8a991&is=65c63491&hm=3be64e8ec809d87fe80fa8eb6f2814ff2b1ad6bb64e6cfafae7437a9de0cc6fa&) {position:absolute,height:102%,left:-33%,top:-1%,filter:grayscale(0),filter:brightness(0.6)}
+![](https://github.com/Vengrath97/Sons-of-Azalin/blob/main/Images%20by%20Chapter/Appendix%20Characters/Alcio%20Metus.png?raw=true) {position:absolute,height:102%,left:-33%,top:-1%,filter:grayscale(0),filter:brightness(0.6)}
 }}
-
 \column
 ## Alcio 'Baron' Metus
 ***Vampiric Kargat Leader***
@@ -2351,16 +2297,9 @@ The vampire can take 3 legendary actions, choosing from the options below. Only 
 }}
 
 \page
-
 {{imageMaskEdge4,--offset:4%,--rotation:90
-![](https://i.imgur.com/x3gpUUt.png) {position:absolute,height:125%,left:-30%,top:-1%,filter:grayscale(1),filter:brightness(0.6)}
+![](https://github.com/Vengrath97/Sons-of-Azalin/blob/main/Images%20by%20Chapter/Appendix%20Characters/Lady%20Kazandra.png?raw=true) {position:absolute,height:125%,left:-30%,top:-1%,filter:grayscale(0),filter:brightness(0.6)}
 }}
-
-
-{{imageMaskEdge4,--offset:4%,--rotation:90
-![](https://cdn.discordapp.com/attachments/1197123956117876796/1203787805982203945/vengrath_smooth_skin--no_hair_48343f60-d997-4f4b-b034-2fd696b4ab5e.png?ex=65d25dc2&is=65bfe8c2&hm=573d5a4126834e7db5150890fb76e1a296c4d2e2367b553a4ab0e85a77e8f341&) {position:absolute,height:125%,left:-30%,top:-1%,filter:grayscale(0),filter:brightness(0.6)}
-}}
-
 \column
 ## Lady Kazandra
 ***Vampiric Kargat Officer***
@@ -2508,8 +2447,8 @@ Sweet and innocent-looking, the Queen of Hearts is a ruthless psychopath. Blonde
 \page
 
 \page
-{{imageMaskEdge1,--offset:5%,--rotation:90
-  ![](https://cdn.midjourney.com/27cf01d9-d946-4c69-9633-663e82e32815/0_0.webp){height:102%,bottom:-1%,left:-55%,transform:scaleX(-1),filter:grayscale(0),filter:brightness(0.6)}
+{{imageMaskEdge1,--offset:4%,--rotation:90
+  ![](){height:102%,bottom:-1%,left:-55%,transform:scaleX(-1),filter:grayscale(0),filter:brightness(0.6)}
 }}
 
 
