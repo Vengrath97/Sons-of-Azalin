@@ -4,9 +4,9 @@
 {{wide,text-align:center,font-size:120px,color:darkgray,margin-left:-10%
 *Sons*
 
-of
+*of*
 
-{{ &nbsp;}} Azalin
+{{ &nbsp;}} *Azalin*
 }}
 \page
 ![](https://i.imgur.com/OYWQOHP.jpeg){position:absolute,width:202%,left:-1%,top:-1%}
@@ -20,236 +20,269 @@ of
 {{pageNumber,auto}}
 {{footnote APPENDIX X | IMPORTANT CHARACTERS }}
 \page
-{{position:absolute,background-color:white,bottom:84px,wide
-
-}}
-
-{{toc,wide,columns:3
+{{toc,wide
 
 - ### [{{ Preface}}{{ 6}}](#p6)
 - ### [{{ Introduction}}{{ 8}}](#p8)
   - #### [{{ Running the Adventure}}{{ 9}}](#p9)
-    - [{{ Story Overview}}{{ 10}}](#p10)
-    - [{{ Adventure Structure}}{{ 10}}](#p10)
-    - [{{ Important Locations}}{{ 10}}](#p10)
-  - #### [{{ Masks of Horror}}{{ 11}}](#p11)
-    - [{{ Metaplot}}{{ 11}}](#p11)
-    - [{{ Plot}}{{ 11}}](#p11)
-- ### [{{ Chapter I <br> Azalin Rex}}{{ 12}}](#p12)
-  - #### [{{ Backstory Recap}}{{ 12}}](#p12)
-  - #### [{{ The Gambit}}{{ 12}}](#p12)
-  - #### [{{ Roleplaying Azalin}}{{ 13}}](#p13)
-  - #### [{{ Roleplaying Firan Zal'honan}}{{ 13}}](#p13)
-  - #### [{{ Posession of Memories}}{{ 13}}](#p13)
-- ### [{{ Chapter II<br> Lands of Darkon}}{{ 18}}](#p18)
-  - #### [{{ Lay of the Land}}{{ 18}}](#p18)
-  - #### [{{ Alterations to Magic}}{{ 18}}](#p18)
-  - #### [{{ Darkonians}}{{ 18}}](#p18)
-    - [{{ Darkonian Names}}{{ 18}}](#p18)
-    - [{{ Darkonian Calendar}}{{ 18}}](#p18)
-  - #### [{{ Random Encounters}}{{ 18}}](#p18)
-  - #### [{{ Areas of Darkon}}{{ 18}}](#p18)
-- ### [{{ Chapter III<br> Brautslava Institute}}{{ 22}}](#p22)
-  - #### [{{ Approaching the Institute}}{{ 22}}](#p22)
-  - #### [{{ Areas of the Institute}}{{ 22}}](#p22)
-  - #### [{{ Special Events}}{{ 22}}](#p22)
-    - [{{ Johnny Powell}}{{ 22}}](#p22)
-- ### [{{ Chapter IV<br> Castle Avernus}}{{ 26}}](#p26)
-  - #### [{{ Approaching the Castle}}{{ 26}}](#p26)
-  - #### [{{ Random Encounters}}{{ 26}}](#p26)
-  - #### [{{ Walls of Avernus}}{{ 26}}](#p26)
-  - #### [{{ Main Floor}}{{ 26}}](#p26)
-  - #### [{{ First Floor}}{{ 26}}](#p26)
-  - #### [{{ Second Floor}}{{ 26}}](#p26)
-  - #### [{{ Spires of Avernus}}{{ 26}}](#p26)
-  - #### [{{ Dungeon}}{{ 26}}](#p26)
-  - #### [{{ Catacombs}}{{ 26}}](#p26)
-- ### [{{ Chapter V<br> Corvia}}{{ 30}}](#p30)
-  - #### [{{ Approaching the Town}}{{ 30}}](#p30)
-  - #### [{{ Areas of Corvia}}{{ 30}}](#p30)
-    - [{{ The Baronial Tower}}{{ 30}}](#p30)
-    - [{{ The Whistling Tower}}{{ 30}}](#p30)
-    - [{{ The Obsidian Heart}}{{ 30}}](#p30)
-    - [{{ The Silver Mistress}}{{ 30}}](#p30)
-  - #### [{{ Special Events}}{{ 30}}](#p30)
-- ### [{{ Chapter VI<br> Creeana}}{{ 34}}](#p34)
-  - #### [{{ Approaching the Ruins}}{{ 34}}](#p34)
-  - #### [{{ Areas of Creeana}}{{ 34}}](#p34)
-  - #### [{{ Special Events}}{{ 34}}](#p34)
-- ### [{{ Chapter VII<br> Delagia}}{{ 38}}](#p38)
-  - #### [{{ Approaching the Town}}{{ 38}}](#p38)
-  - #### [{{ Areas of Delagia}}{{ 38}}](#p38)
-  - #### [{{ Special Events}}{{ 38}}](#p38)
-- ### [{{ Chapter VIII<br> Il Aluk}}{{ 42}}](#p42)
-  - #### [{{ Approaching the City}}{{ 42}}](#p42)
-  - #### [{{ Areas of Aluk Meridian}}{{ 42}}](#p42)
-    - [{{ Block Ten}}{{ 42}}](#p42)
-    - [{{ City Guard Headquarters}}{{ 42}}](#p42)
-    - [{{ Hospital}}{{ 42}}](#p42)
-    - [{{ The Black Vault}}{{ 42}}](#p42)
-    - [{{ The Grim Fastness}}{{ 42}}](#p42)
-    - [{{ The New Town}}{{ 42}}](#p42)
-    - [{{ The Temple of Eternal Penitence}}{{ 42}}](#p42)
-    - [{{ Weeping Willows Graveyard}}{{ 42}}](#p42)
-  - #### [{{ Areas of Old Il Aluk}}{{ 42}}](#p42)
-    - [{{ University of Il Aluk}}{{ 42}}](#p42)
-    - [{{ Calasquel}}{{ 42}}](#p42)
-  - #### [{{ Areas of Aluk Septentrion}}{{ 42}}](#p42)
-    - [{{ Art and Natural History Museum}}{{ 42}}](#p42)
-    - [{{ Botanical Gardens}}{{ 42}}](#p42)
-    - [{{ Halfling Quarter}}{{ 42}}](#p42)
-    - [{{ Hallad Market}}{{ 42}}](#p42)
-    - [{{ Pagolin Theatre}}{{ 42}}](#p42)
-    - [{{ Potter's Pub}}{{ 42}}](#p42)
-    - [{{ Reaper's Chapel}}{{ 42}}](#p42)
-  - #### [{{ Areas of Decimus}}{{ 42}}](#p42)
-    - [{{ Ranherdt Residence}}{{ 42}}](#p42)
-    - [{{ Warehouses}}{{ 42}}](#p42)
-  - #### [{{ Areas of Degradia}}{{ 42}}](#p42)
-    - [{{ Temple of Undying Virtue}}{{ 42}}](#p42)
-  - #### [{{ Areas of Desolatus}}{{ 42}}](#p42)
-    - [{{ The Garden of Amaranth}}{{ 42}}](#p42)
-  - #### [{{ Areas of Despondia}}{{ 42}}](#p42)
-  - #### [{{ Special Events}}{{ 42}}](#p42)
-- ### [{{ Chapter IX<br> Karg}}{{ 46}}](#p46)
-  - #### [{{ Approaching the City}}{{ 46}}](#p46)
-  - #### [{{ Areas of Karg}}{{ 46}}](#p46)
-    - [{{ University of Il Aluk in Exile}}{{ 46}}](#p46)
-    - [{{ Yako Vormoff's Lair}}{{ 46}}](#p46)
-  - #### [{{ Special Events}}{{ 46}}](#p46)
-- ### [{{ Chapter X<br> Martira Bay}}{{ 50}}](#p50)
-  - #### [{{ Approaching the City}}{{ 50}}](#p50)
-    - [{{ [UNKNOWN] Cosmopolis Club}}{{ 50}}](#p50)
-    - [{{ [UNKNOWN] Obis House}}{{ 50}}](#p50)
-  - #### [{{ Areas of East District}}{{ 50}}](#p50)
-  - #### [{{ Areas of Government Square}}{{ 50}}](#p50)
-  - #### [{{ Areas of Guild Quarter}}{{ 50}}](#p50)
-    - [{{ Yawning Eddy}}{{ 50}}](#p50)
-  - #### [{{ Areas of Merchant's Quarter}}{{ 50}}](#p50)
-  - #### [{{ Areas of North District}}{{ 50}}](#p50)
-    - [{{ Widow's Retreat}}{{ 50}}](#p50)
-  - #### [{{ Areas of Waterfront}}{{ 50}}](#p50)
-    - [{{ Captain Marlbrot Inn}}{{ 50}}](#p50)
-    - [{{ Red Sails Inn}}{{ 50}}](#p50)
-    - [{{ Siren's Lament Inn}}{{ 50}}](#p50)
-  - #### [{{ Areas of West District}}{{ 50}}](#p50)
-    - [{{ The Black Tower}}{{ 50}}](#p50)
-  - #### [{{ Special Events}}{{ 50}}](#p50)
-  - #### [{{ Characters (Note)}}{{ 51}}](#p51)
-- ### [{{ Chapter XI<br> Maykle}}{{ 54}}](#p54)
-  - #### [{{ Approaching the Town}}{{ 54}}](#p54)
-  - #### [{{ Areas of Maykle}}{{ 54}}](#p54)
-  - #### [{{ Special Events}}{{ 54}}](#p54)
-- ### [{{ Chapter XII<br> Mayvin}}{{ 58}}](#p58)
-  - #### [{{ Approaching the Town}}{{ 58}}](#p58)
-  - #### [{{ Areas of Mayvin}}{{ 58}}](#p58)
-    - [{{ The Clockworks}}{{ 58}}](#p58)
-    - [{{ The Patent Hall}}{{ 58}}](#p58)
-  - #### [{{ Special Events}}{{ 58}}](#p58)
-- ### [{{ Chapter XIII<br> Mount Nyid}}{{ 62}}](#p62)
-  - #### [{{ Approaching the Mountain}}{{ 62}}](#p62)
-  - #### [{{ Areas of Moynt Nyid}}{{ 62}}](#p62)
-    - [{{ Abandoned Mines}}{{ 62}}](#p62)
-    - [{{ Ebbaseyth's Lair}}{{ 62}}](#p62)
-  - #### [{{ Special Events}}{{ 62}}](#p62)
+    - [{{ Story Overview}}{{ 11}}](#p11)
+    - [{{ Adventure Structure}}{{ 11}}](#p11)
+    - [{{ Important Locations}}{{ 11}}](#p11)
+  - #### [{{ Masks of Horror}}{{ 12}}](#p12)
+    - [{{ Metaplot}}{{ 12}}](#p12)
+    - [{{ Plot}}{{ 12}}](#p12)
+- ### [{{ Chapter I <br> Azalin Rex}}{{ 14}}](#p14)
+  - #### [{{ Backstory Recap}}{{ 14}}](#p14)
+  - #### [{{ The Gambit}}{{ 14}}](#p14)
+  - #### [{{ Roleplaying Darcalus Rex}}{{ 15}}](#p15)
+  - #### [{{ Roleplaying Firan Zal'honan}}{{ 15}}](#p15)
+- ### [{{ Chapter II<br> Lands of Darkon}}{{ 20}}](#p20)
+  - #### [{{ Lay of the Land}}{{ 20}}](#p20)
+  - #### [{{ Alterations to Magic}}{{ 20}}](#p20)
+  - #### [{{ Darkonians}}{{ 20}}](#p20)
+    - [{{ Darkonian Names}}{{ 20}}](#p20)
+    - [{{ Darkonian Calendar}}{{ 20}}](#p20)
+  - #### [{{ Random Encounters}}{{ 20}}](#p20)
+  - #### [{{ Areas of Darkon}}{{ 20}}](#p20)
+- ### [{{ Chapter III<br> Brautslava Institute}}{{ 24}}](#p24)
+  - #### [{{ Approaching the Institute}}{{ 24}}](#p24)
+  - #### [{{ Areas of the Institute}}{{ 24}}](#p24)
+  - #### [{{ Special Events}}{{ 24}}](#p24)
+    - [{{ Johnny Powell}}{{ 24}}](#p24)
+- ### [{{ Chapter IV<br> Castle Avernus}}{{ 28}}](#p28)
+  - #### [{{ Approaching the Castle}}{{ 28}}](#p28)
+  - #### [{{ Random Encounters}}{{ 28}}](#p28)
+  - #### [{{ Walls of Avernus}}{{ 28}}](#p28)
+  - #### [{{ Main Floor}}{{ 28}}](#p28)
+  - #### [{{ First Floor}}{{ 28}}](#p28)
+  - #### [{{ Second Floor}}{{ 28}}](#p28)
+  - #### [{{ Spires of Avernus}}{{ 28}}](#p28)
+  - #### [{{ Dungeon}}{{ 28}}](#p28)
+  - #### [{{ Catacombs}}{{ 28}}](#p28)
+- ### [{{ Chapter V<br> Corvia}}{{ 32}}](#p32)
+  - #### [{{ Approaching the Town}}{{ 32}}](#p32)
+  - #### [{{ Areas of Corvia}}{{ 32}}](#p32)
+    - [{{ The Baronial Tower}}{{ 32}}](#p32)
+    - [{{ The Whistling Tower}}{{ 32}}](#p32)
+    - [{{ The Obsidian Heart}}{{ 32}}](#p32)
+    - [{{ The Silver Mistress}}{{ 32}}](#p32)
+  - #### [{{ Special Events}}{{ 32}}](#p32)
+- ### [{{ Chapter VI<br> Creeana}}{{ 36}}](#p36)
+  - #### [{{ Approaching the Ruins}}{{ 36}}](#p36)
+  - #### [{{ Areas of Creeana}}{{ 36}}](#p36)
+  - #### [{{ Special Events}}{{ 36}}](#p36)
+- ### [{{ Chapter VII<br> Delagia}}{{ 40}}](#p40)
+  - #### [{{ Approaching the Town}}{{ 40}}](#p40)
+  - #### [{{ Areas of Delagia}}{{ 40}}](#p40)
+  - #### [{{ Special Events}}{{ 40}}](#p40)
+- ### [{{ Chapter VIII<br> Il Aluk}}{{ 44}}](#p44)
+  - #### [{{ Approaching the City}}{{ 44}}](#p44)
+  - #### [{{ Areas of Aluk Meridian}}{{ 44}}](#p44)
+    - [{{ Block Ten}}{{ 44}}](#p44)
+    - [{{ City Guard Headquarters}}{{ 44}}](#p44)
+    - [{{ Hospital}}{{ 44}}](#p44)
+    - [{{ The Black Vault}}{{ 44}}](#p44)
+    - [{{ The Grim Fastness}}{{ 44}}](#p44)
+    - [{{ The New Town}}{{ 44}}](#p44)
+    - [{{ The Temple of Eternal Penitence}}{{ 44}}](#p44)
+    - [{{ Weeping Willows Graveyard}}{{ 44}}](#p44)
+  - #### [{{ Areas of Old Il Aluk}}{{ 44}}](#p44)
+    - [{{ University of Il Aluk}}{{ 44}}](#p44)
+    - [{{ Calasquel}}{{ 44}}](#p44)
+  - #### [{{ Areas of Aluk Septentrion}}{{ 44}}](#p44)
+    - [{{ Art and Natural History Museum}}{{ 44}}](#p44)
+    - [{{ Botanical Gardens}}{{ 44}}](#p44)
+    - [{{ Halfling Quarter}}{{ 44}}](#p44)
+    - [{{ Hallad Market}}{{ 44}}](#p44)
+    - [{{ Pagolin Theatre}}{{ 44}}](#p44)
+    - [{{ Potter's Pub}}{{ 44}}](#p44)
+    - [{{ Reaper's Chapel}}{{ 44}}](#p44)
+  - #### [{{ Areas of Decimus}}{{ 44}}](#p44)
+    - [{{ Ranherdt Residence}}{{ 44}}](#p44)
+    - [{{ Warehouses}}{{ 44}}](#p44)
+  - #### [{{ Areas of Degradia}}{{ 44}}](#p44)
+    - [{{ Temple of Undying Virtue}}{{ 44}}](#p44)
+  - #### [{{ Areas of Desolatus}}{{ 44}}](#p44)
+    - [{{ The Garden of Amaranth}}{{ 44}}](#p44)
+  - #### [{{ Areas of Despondia}}{{ 44}}](#p44)
+  - #### [{{ Special Events}}{{ 44}}](#p44)
+- ### [{{ Chapter IX<br> Karg}}{{ 48}}](#p48)
+  - #### [{{ Approaching the City}}{{ 48}}](#p48)
+  - #### [{{ Areas of Karg}}{{ 48}}](#p48)
+    - [{{ University of Il Aluk in Exile}}{{ 48}}](#p48)
+    - [{{ Yako Vormoff's Lair}}{{ 48}}](#p48)
+  - #### [{{ Special Events}}{{ 48}}](#p48)
+- ### [{{ Chapter X<br> Martira Bay}}{{ 52}}](#p52)
+  - #### [{{ Approaching the City}}{{ 52}}](#p52)
+    - [{{ [UNKNOWN] Cosmopolis Club}}{{ 52}}](#p52)
+    - [{{ [UNKNOWN] Obis House}}{{ 52}}](#p52)
+  - #### [{{ Areas of East District}}{{ 52}}](#p52)
+  - #### [{{ Areas of Government Square}}{{ 52}}](#p52)
+  - #### [{{ Areas of Guild Quarter}}{{ 52}}](#p52)
+    - [{{ Yawning Eddy}}{{ 52}}](#p52)
+  - #### [{{ Areas of Merchant's Quarter}}{{ 52}}](#p52)
+  - #### [{{ Areas of North District}}{{ 52}}](#p52)
+    - [{{ Widow's Retreat}}{{ 52}}](#p52)
+  - #### [{{ Areas of Waterfront}}{{ 52}}](#p52)
+    - [{{ Captain Marlbrot Inn}}{{ 52}}](#p52)
+    - [{{ Red Sails Inn}}{{ 52}}](#p52)
+    - [{{ Siren's Lament Inn}}{{ 52}}](#p52)
+  - #### [{{ Areas of West District}}{{ 52}}](#p52)
+    - [{{ The Black Tower}}{{ 52}}](#p52)
+  - #### [{{ Special Events}}{{ 52}}](#p52)
+  - #### [{{ Characters (Note)}}{{ 53}}](#p53)
 }}
+
+
 
 
 
 
 \page
-{{toc,wide,columns:3
+{{toc,wide
 
-- ### [{{ Chapter XIV<br> Nartok}}{{ 66}}](#p66)
-  - #### [{{ Approaching the City}}{{ 66}}](#p66)
-  - #### [{{ Areas of New Town}}{{ 66}}](#p66)
-    - [{{ Cedarsplint Inn}}{{ 66}}](#p66)
-    - [{{ The Crow's Roost Inn}}{{ 66}}](#p66)
-  - #### [{{ Areas of Old Town}}{{ 66}}](#p66)
-    - [{{ Season's Turn}}{{ 66}}](#p66)
-    - [{{ Veteran Arms}}{{ 66}}](#p66)
-  - #### [{{ Special Events}}{{ 66}}](#p66)
-- ### [{{ Chapter XV<br> Neblus}}{{ 70}}](#p70)
-  - #### [{{ Approaching the City}}{{ 70}}](#p70)
-  - #### [{{ Areas of Neblus}}{{ 70}}](#p70)
-    - [{{ Longshadow's Residence}}{{ 70}}](#p70)
-    - [{{ Temple of Eternal Order}}{{ 70}}](#p70)
-    - [{{ Shrine of the Spirits}}{{ 70}}](#p70)
-  - #### [{{ Special Events}}{{ 70}}](#p70)
-- ### [{{ Chapter XVI<br> Nevuchar Springs}}{{ 74}}](#p74)
-  - #### [{{ Approaching the Town}}{{ 74}}](#p74)
-  - #### [{{ Areas of Nevuchar Springs}}{{ 74}}](#p74)
-    - [{{ The Baths}}{{ 74}}](#p74)
-    - [{{ Nevuchar Shrine}}{{ 74}}](#p74)
-    - [{{ Library Pharmacologae}}{{ 74}}](#p74)
-    - [{{ The Last Redoubt}}{{ 74}}](#p74)
-  - #### [{{ Special Events}}{{ 74}}](#p74)
-- ### [{{ Chapter XVII<br> Rivalis}}{{ 78}}](#p78)
-  - #### [{{ Approaching the City}}{{ 78}}](#p78)
-  - #### [{{ Areas of Rivalis}}{{ 78}}](#p78)
-    - [{{ Richten Haus}}{{ 78}}](#p78)
-    - [{{ The Crystal Garden}}{{ 78}}](#p78)
-    - [{{ The Old Waypoint}}{{ 78}}](#p78)
-    - [{{ Traveler's End}}{{ 78}}](#p78)
-    - [{{ Two Brothers}}{{ 78}}](#p78)
-  - #### [{{ Special Events}}{{ 78}}](#p78)
-- ### [{{ Chapter XVIII<br> Rookhausen}}{{ 82}}](#p82)
-  - #### [{{ Approaching the Ruins}}{{ 82}}](#p82)
-  - #### [{{ Areas of Rookhausen}}{{ 82}}](#p82)
-    - [{{ Lighthouse Ruins}}{{ 82}}](#p82)
-    - [{{ The Four Islands}}{{ 82}}](#p82)
-  - #### [{{ Special Events}}{{ 82}}](#p82)
-- ### [{{ Chapter XIX<br> Sidnar}}{{ 86}}](#p86)
-  - #### [{{ Approaching the Town}}{{ 86}}](#p86)
-  - #### [{{ Areas of Sidnar}}{{ 86}}](#p86)
-  - #### [{{ Special Events}}{{ 86}}](#p86)
-- ### [{{ Chapter XIX<br> Tempe Falls}}{{ 90}}](#p90)
-  - #### [{{ Approaching the Town}}{{ 90}}](#p90)
-  - #### [{{ Areas of Tempe Falls}}{{ 90}}](#p90)
-  - #### [{{ Special Events}}{{ 90}}](#p90)
-- ### [{{ Chapter XXI<br> Tidemore}}{{ 94}}](#p94)
-  - #### [{{ Approaching the Village}}{{ 94}}](#p94)
-  - #### [{{ Areas of Tidemore}}{{ 94}}](#p94)
-    - [{{ Borganovhaus}}{{ 94}}](#p94)
-    - [{{ Rocky Beach}}{{ 94}}](#p94)
-  - #### [{{ Special Events}}{{ 94}}](#p94)
-- ### [{{ Chapter XXII<br> Viaki}}{{ 98}}](#p98)
-  - #### [{{ Approaching the City}}{{ 98}}](#p98)
-  - #### [{{ Areas of Viaki}}{{ 98}}](#p98)
-    - [{{ Museum of Grotesques}}{{ 98}}](#p98)
-    - [{{ Peatcutters' Chorus}}{{ 98}}](#p98)
-    - [{{ Clearwater Inn}}{{ 98}}](#p98)
-    - [{{ Manticore's Tongue}}{{ 98}}](#p98)
-    - [{{ Mosscloak Inn}}{{ 98}}](#p98)
-    - [{{ Toadfoot Inn}}{{ 98}}](#p98)
-  - #### [{{ Special Events}}{{ 98}}](#p98)
-  - #### [{{ <br><br><br><br><br>Vampire}}{{ 102}}](#p102)
-  - #### [{{ Alcio 'Baron' Metus}}{{ 103}}](#p103)
-- ### [{{ Important Characters}}{{ 106}}](#p106)
-  - #### [{{ Vampires of Ravenloft}}{{ 110}}](#p110)
-  - #### [{{ Vampiric Mist Form}}{{ 111}}](#p111)
-  - #### [{{ Vampiric Bat Form}}{{ 111}}](#p111)
-  - #### [{{ Lady Kazandra}}{{ 112}}](#p112)
-  - #### [{{ Damon Skragg}}{{ 114}}](#p114)
+- ### [{{ Chapter XI<br> Maykle}}{{ 56}}](#p56)
+  - #### [{{ Approaching the Town}}{{ 56}}](#p56)
+  - #### [{{ Areas of Maykle}}{{ 56}}](#p56)
+  - #### [{{ Special Events}}{{ 56}}](#p56)
+- ### [{{ Chapter XII<br> Mayvin}}{{ 60}}](#p60)
+  - #### [{{ Approaching the Town}}{{ 60}}](#p60)
+  - #### [{{ Areas of Mayvin}}{{ 60}}](#p60)
+    - [{{ The Clockworks}}{{ 60}}](#p60)
+    - [{{ The Patent Hall}}{{ 60}}](#p60)
+  - #### [{{ Special Events}}{{ 60}}](#p60)
+- ### [{{ Chapter XIII<br> Mount Nyid}}{{ 64}}](#p64)
+  - #### [{{ Approaching the Mountain}}{{ 64}}](#p64)
+  - #### [{{ Areas of Moynt Nyid}}{{ 64}}](#p64)
+    - [{{ Abandoned Mines}}{{ 64}}](#p64)
+    - [{{ Ebbaseyth's Lair}}{{ 64}}](#p64)
+  - #### [{{ Special Events}}{{ 64}}](#p64)
+- ### [{{ Chapter XIV<br> Nartok}}{{ 68}}](#p68)
+  - #### [{{ Approaching the City}}{{ 68}}](#p68)
+  - #### [{{ Areas of New Town}}{{ 68}}](#p68)
+    - [{{ Cedarsplint Inn}}{{ 68}}](#p68)
+    - [{{ The Crow's Roost Inn}}{{ 68}}](#p68)
+  - #### [{{ Areas of Old Town}}{{ 68}}](#p68)
+    - [{{ Season's Turn}}{{ 68}}](#p68)
+    - [{{ Veteran Arms}}{{ 68}}](#p68)
+  - #### [{{ Special Events}}{{ 68}}](#p68)
+- ### [{{ Chapter XV<br> Neblus}}{{ 72}}](#p72)
+  - #### [{{ Approaching the City}}{{ 72}}](#p72)
+  - #### [{{ Areas of Neblus}}{{ 72}}](#p72)
+    - [{{ Longshadow's Residence}}{{ 72}}](#p72)
+    - [{{ Temple of Eternal Order}}{{ 72}}](#p72)
+    - [{{ Shrine of the Spirits}}{{ 72}}](#p72)
+  - #### [{{ Special Events}}{{ 72}}](#p72)
+- ### [{{ Chapter XVI<br> Nevuchar Springs}}{{ 76}}](#p76)
+  - #### [{{ Approaching the Town}}{{ 76}}](#p76)
+  - #### [{{ Areas of Nevuchar Springs}}{{ 76}}](#p76)
+    - [{{ The Baths}}{{ 76}}](#p76)
+    - [{{ Nevuchar Shrine}}{{ 76}}](#p76)
+    - [{{ Library Pharmacologae}}{{ 76}}](#p76)
+    - [{{ The Last Redoubt}}{{ 76}}](#p76)
+  - #### [{{ Special Events}}{{ 76}}](#p76)
+- ### [{{ Chapter XVII<br> Rivalis}}{{ 80}}](#p80)
+  - #### [{{ Approaching the City}}{{ 80}}](#p80)
+  - #### [{{ Areas of Rivalis}}{{ 80}}](#p80)
+    - [{{ Richten Haus}}{{ 80}}](#p80)
+    - [{{ The Crystal Garden}}{{ 80}}](#p80)
+    - [{{ The Old Waypoint}}{{ 80}}](#p80)
+    - [{{ Traveler's End}}{{ 80}}](#p80)
+    - [{{ Two Brothers}}{{ 80}}](#p80)
+  - #### [{{ Special Events}}{{ 80}}](#p80)
+- ### [{{ Chapter XVIII<br> Rookhausen}}{{ 84}}](#p84)
+  - #### [{{ Approaching the Ruins}}{{ 84}}](#p84)
+  - #### [{{ Areas of Rookhausen}}{{ 84}}](#p84)
+    - [{{ Lighthouse Ruins}}{{ 84}}](#p84)
+    - [{{ The Four Islands}}{{ 84}}](#p84)
+  - #### [{{ Special Events}}{{ 84}}](#p84)
+- ### [{{ Chapter XIX<br> Sidnar}}{{ 88}}](#p88)
+  - #### [{{ Approaching the Town}}{{ 88}}](#p88)
+  - #### [{{ Areas of Sidnar}}{{ 88}}](#p88)
+  - #### [{{ Special Events}}{{ 88}}](#p88)
+- ### [{{ Chapter XX<br> Tempe Falls}}{{ 92}}](#p92)
+  - #### [{{ Approaching the Town}}{{ 92}}](#p92)
+  - #### [{{ Areas of Tempe Falls}}{{ 92}}](#p92)
+  - #### [{{ Special Events}}{{ 92}}](#p92)
+- ### [{{ Chapter XXI<br> Tidemore}}{{ 96}}](#p96)
+  - #### [{{ Approaching the Village}}{{ 96}}](#p96)
+  - #### [{{ Areas of Tidemore}}{{ 96}}](#p96)
+    - [{{ Borganovhaus}}{{ 96}}](#p96)
+    - [{{ Rocky Beach}}{{ 96}}](#p96)
+  - #### [{{ Special Events}}{{ 96}}](#p96)
+- ### [{{ Chapter XXII<br> Viaki}}{{ 100}}](#p100)
+  - #### [{{ Approaching the City}}{{ 100}}](#p100)
+  - #### [{{ Areas of Viaki}}{{ 100}}](#p100)
+    - [{{ Museum of Grotesques}}{{ 100}}](#p100)
+    - [{{ Peatcutters' Chorus}}{{ 100}}](#p100)
+    - [{{ Clearwater Inn}}{{ 100}}](#p100)
+    - [{{ Manticore's Tongue}}{{ 100}}](#p100)
+    - [{{ Mosscloak Inn}}{{ 100}}](#p100)
+    - [{{ Toadfoot Inn}}{{ 100}}](#p100)
+  - #### [{{ Special Events}}{{ 100}}](#p100)
+- ### [{{ <br>Bestiary}}{{ 106}}](#p106)
+  - #### [{{ Vampires of Ravenloft}}{{ 106}}](#p106)
+  - #### [{{ Ravenloft Vampire}}{{ 107}}](#p107)
+    - [{{ Actions}}{{ 107}}](#p107)
+    - [{{ Legendary Actions}}{{ 107}}](#p107)
+  - #### [{{ Vampiric Mist Form}}{{ 108}}](#p108)
+  - #### [{{ Vampiric Bat Form}}{{ 108}}](#p108)
+    - [{{ Actions}}{{ 108}}](#p108)
+    - [{{ Legendary Actions}}{{ 108}}](#p108)
+    - [{{ Lair Actions}}{{ 108}}](#p108)
+- ### [{{ <br>Important Characters}}{{ 110}}](#p110)
+  - #### [{{ Jagged Coast}}{{ 110}}](#p110)
+  - #### [{{ Mountains of Madness}}{{ 111}}](#p111)
+  - #### [{{ Mistlands}}{{ 111}}](#p111)
+  - #### [{{ Boglands}}{{ 111}}](#p111)
+  - #### [{{ Forest of Shadows}}{{ 112}}](#p112)
+  - #### [{{ Il Aluk}}{{ 112}}](#p112)
+  - #### [{{ Valley of Tears}}{{ 112}}](#p112)
+  - #### [{{ Damon Skragg,}}{{ 114}}](#p114)
+  - #### [{{ Damon Skragg, the Ghoul Lord}}{{ 115}}](#p115)
+    - [{{ Actions}}{{ 115}}](#p115)
+    - [{{ Reactions}}{{ 115}}](#p115)
+    - [{{ Legendary Actions}}{{ 115}}](#p115)
+    - [{{ Lair Actions}}{{ 115}}](#p115)
   - #### [{{ Yako Vormoff}}{{ 116}}](#p116)
   - #### [{{ Lowellyn Dachine}}{{ 118}}](#p118)
   - #### [{{ Beryl Silvertress}}{{ 120}}](#p120)
   - #### [{{ Trillen Mistwalker}}{{ 122}}](#p122)
   - #### [{{ Glennis McFadden}}{{ 124}}](#p124)
-  - #### [{{ Galf Kloggin}}{{ 126}}](#p126)
+  - #### [{{ Galf Kloggin TODO}}{{ 126}}](#p126)
+  - #### [{{ Galf Kloggin'}}{{ 127}}](#p127)
+    - [{{ Actions}}{{ 127}}](#p127)
+    - [{{ Legendary Actions}}{{ 127}}](#p127)
   - #### [{{ Azalin Rex}}{{ 128}}](#p128)
-  - #### [{{ Queen of Hearts}}{{ 130}}](#p130)
-}}
-
-
+  - #### [{{ Azalin Rex}}{{ 129}}](#p129)
+    - [{{ Actions}}{{ 129}}](#p129)
+    - [{{ Legendary Actions}}{{ 129}}](#p129)
+    - [{{ Mythic Actions}}{{ 129}}](#p129)
+  - #### [{{ Alcio 'Baron' Metus}}{{ 130}}](#p130)
+  - #### [{{ Alcio 'Baron' Metus (TODO)}}{{ 131}}](#p131)
+    - [{{ Actions}}{{ 131}}](#p131)
+    - [{{ Legendary Actions}}{{ 131}}](#p131)
+  - #### [{{ Lady Kazandra}}{{ 132}}](#p132)
+  - #### [{{ Lady Kazandra}}{{ 133}}](#p133)
+    - [{{ Actions}}{{ 133}}](#p133)
+    - [{{ Legendary Actions}}{{ 133}}](#p133)
+    - [{{ Lair Actions}}{{ 133}}](#p133)
+  - #### [{{ Queen of Hearts}}{{ 134}}](#p134)
+  - #### [{{ Ebbaseyth}}{{ 136}}](#p136)
+  - #### [{{ Galf Kloggin'}}{{ 137}}](#p137)
+    - [{{ Actions}}{{ 137}}](#p137)
+    - [{{ Legendary Actions}}{{ 137}}](#p137)
+    }}
 
 
 \page
 
-{{imageMaskEdge1,--offset:8%,--rotation:180
+{{imageMaskEdge1,--offset:5%,--rotation:180
 ![](https://raw.githubusercontent.com/Vengrath97/Sons-of-Azalin/main/Images%20by%20Chapter/Preface/Chapter%20Header.webp){position:absolute,top:-1%,left:-1%,width:102%,mix-blend-mode:multiply,filter:grayscale(0),filter:brightness(0.6)}
 }}
+
 # <br>Preface
+<!--
 In 2002, a young boy had picked up two large cardboard boxes with PC games from a metal bin in a local discount store - it was a 2 for 1 special offer, and even though he very much wanted to get more, he could only afford these two - carefully selected from a wide selection of choice, based on nothing more than cover art, little description on the back, and a couple of screen-shots presenting the gameplay. One of them, painted blue, with a knight commanding an assault on a mighty castle, and an army ammased form various fantasy creatures contained a strategy game - one of the legendary titles that shaped the genre for years to come. It was important for this boy, to a degree. The other box, pitch-black, with but a single depiction of a bleeding eye and a title that shaped this boys entire future.
 
 "{{SpecialFont Neverwinter Nights}}", because that was the title on a box edition of the game, was a PC game built upon a certain legacy: the {{SpecialFont Dungeon's & Dragons}} RPG system, namely in the {{SpecialFont Forgotten Realms}} setting; and a long-line of previous iterations of adaptation of the various edition to PC games. This particular game started my passion for fantasy role-playing, and storytelling at large. Yes - I have red Tolkien's "Lord of the Rings", and i have been reading on "Harry Potter" series, but it is within the Realms that a burning passion had been born.
@@ -257,11 +290,13 @@ In 2002, a young boy had picked up two large cardboard boxes with PC games from 
 Unfortuantelly, it had been almost two decades, since I've been able to roll the dice with friends at a common table at first, it was a simple, starter adventure; ran by a colleague; 5th edition differed a lot from my expectations that rose on my knowledge about {{SpecialFont Advanced Dungeons and Dragons}} and the third iteration of the rules. Nonetheless, it was really fun, it later transformed into an adventure designed by said colleague, and I still remember how thrilled I was to one day design my own adventure - which was soon to come.
 
 With the rise of online D&D groups, I gathered a party, and began running my first adventure - inspired by the {{SpecialFont Forgotten Realms}}, but separate enough as to not intimidate the players, not myself. There were, of course, many plot-holes in this world of mine, and juggling the responsibilities of a {{SpecialFont Dungeon Master}}
-
+-->
 
 {{pageNumber,auto}}
 {{footnote,color PREFACE }}
 \page
+
+<!--
 was no easy task for me, mind you, but soon after I was completely hooked, and with 4 different group of adventurers the campaigns sprawled into different directions. The conclusion had not been reached by all - there are a lot of things I could have handled better, but overall, considering these were my first steps on that wonderful path of a storyteller - I can't think about that times in any other terms than a success.
 
 From that experience another campaign arose, which would be my greatest failure up to date. A campaign designed in every detail, each event pre-planned many sessions in advance, every plot-point merticulously laid down by me before the characters were even created- more experienced {{SpecialFont Dungeon Masters}} already know, what happened next - the agency of my players, and the main characters of the story was nullified. They were on rails - they had some limited illusion that their choices mattered, when they really didn't. They felt a deep frustration, that the adventure had potential - there were some pretty sights, after all - but it was behind a glass, too distant to touch.
@@ -275,12 +310,12 @@ That being said: {{SpecialFont Sons of Azalin}} is designed with a good, or at l
 As I see it, during writing of this adventure, Azalin Rex is an irredeemable evil. He may not see himself in that way, and he may hide behind a guile of reason or empathy. The Wizard King is not above deception, appealing to reason, greed or whatever noble intent he can exploit to achieve his goals, but ultimatelly he is a tyrant, who killed his own son, and now seeks to restore him not out of true regret, but rather to erease the affront to his power that is the fact that Irik is beyond his reach. In truth, the darklord of Darkon suffers more from his curse of being unable to learn new magic, than from the fact that his son is dead.
 
 You might want to make the adventure in Darkon even grander. A few guidelines i may suggest is embracing the motiffs presented in this book: "Love versus Law", "Freedom versus Loyalty", abusive, controlling parents
-
+-->
 
 {{pageNumber,auto}}
 {{footnote,color PREFACE }}
 \page
-{{imageMaskEdge1,--offset:8%,--rotation:180
+{{imageMaskEdge1,--offset:5%,--rotation:180
 ![](https://github.com/Vengrath97/Sons-of-Azalin/raw/main/Images%20by%20Chapter/Introduction/Chapter%20Header.webp){position:absolute,top:-10%,left:-1%,width:102%,mix-blend-mode:multiply,transform:scaleX(-1),filter:grayscale(0),filter:brightness(0.6)}
 }}
 
@@ -303,7 +338,7 @@ A flash of unnatural light illuminates Azalin's gaunt features, revealing the an
 
 
 ## Running the Adventure
-{{SpecialFont [Adventure Title]}} is a story of gothic horror, presented here as {{SpecialFont Dungeons & Dragons}} roleplaying game adventure for a party of four to six adventurers of levels [10-16]. A balance of character classes is helpful, since the adventuers will face a variety of challenges. Each character class will certainly have its moment to shine, although it should be noted that since the historical 'linear fighter and quadratic wizard', the spellcasting classes will naturally have more opportunities during this adventure, as it is prepared for higher tiers of play.
+{{SpecialFont Sons of Azalin}} is a story of gothic horror, presented here as {{SpecialFont Dungeons & Dragons}} roleplaying game adventure for a party of four to six adventurers of levels [10-16]. A balance of character classes is helpful, since the adventuers will face a variety of challenges. Each character class will certainly have its moment to shine, although it should be noted that since the historical 'linear fighter and quadratic wizard', the spellcasting classes will naturally have more opportunities during this adventure, as it is prepared for higher tiers of play.
 
 As the adventure starts at higher level, you may consider running it as a continuation of adventures for a party that has completed a previous module - {{SpecialFont Curse of Strahd}} is a perfect adventure to run beforehand, especially if you are able to seed the clues about Azalin's relationship with Strahd von Zarovitch. Knowledge about that adventure is not required, but may provide a wider context to this adventure.
 This book is meant for you, the {{SpecialFont Dungeon Master}}, alone. I recommend you read the entire adventure before attempting to run it. It assumes that you have the fifth edition {{SpecialFont Player's Handbook}}, {{SpecialFont Dungeon Master's Guide}} and {{SpecialFont Monster Manual}}. 
@@ -516,7 +551,7 @@ On the night that the Shadow fell.
 {{pageNumber,auto}}
 {{footnote INTRODUCTION }}
 \page
-{{imageMaskEdge1,--offset:8%,--rotation:180
+{{imageMaskEdge1,--offset:5%,--rotation:180
 ![](https://github.com/Vengrath97/Sons-of-Azalin/raw/main/Images%20by%20Chapter/Azalin%20Rex/Chapter%20Header.webp){position:absolute,top:-3%,left:-1%,width:102%,mix-blend-mode:multiply,filter:grayscale(0),filter:brightness(0.6)}
 }}
 
@@ -532,12 +567,12 @@ Arriving at Ravenloft, Azalin first entered Barovia, where he briefly cooperated
 ## The Gambit
 Azalin's newest plan is to split himself so half can escape Ravenloft with Irik's soul. He plans to leave behind enough of himself so that Darkon still has a Darklord and the Dark Powers are appeased. The free half of Azalin can rebuild a kingdom in Oerth, become a lich once more, collect new artifacts, and search the multiverse for a spell to revive Irik.
 
-Azalin constructed an arcane apparatus in Castle Avernus, put Irik's soul in a gold dragon skull amulet, and initiated the terrifying magical reaction to sunder himself. The half with the amulet would be free to wander Ravenloft and eventually find an escape. The Darklord-half, who refuses to be the half that 
+Azalin constructed an arcane apparatus in Castle Avernus, put Irik's soul in a gold dragon skull amulet, and initiated the terrifying magical reaction to sunder himself. The half with the amulet would be free to wander Ravenloft and 
 
 {{pageNumber,auto}}
 {{footnote CHAPTER 1 | AZALIN REX }}
 \page
-must remain in the misty prison of Darkon, is locked in the King's Tear - which is a jewel suspended mid-air above Darkon, appearing as a new star, that permanently shines it's golden light from the skies - so he can't stop the other half's escape attempt
+eventually find an escape. The Darklord-half, who refuses to be the half that must remain in the misty prison of Darkon, is locked in the King's Tear - which is a jewel suspended mid-air above Darkon, appearing as a new star, that permanently shines it's golden light from the skies - so he can't stop the other half's escape attempt
 
 The plan went awry at the splitting stage. The amulet-owning, human-half Firan Zal’honan lost most of his memory. He can't remember splitting himself, why the pendant is very important (just that it is), exactly why he needs to escape Darkon (just that he hates it), or that he even has a cherished son. The locked-away half of Azalin can help him remember, but that half does not want Firan and Irik to leave. The locked-away half will tempt whoever he can to lure Firan back to him or else to free himself from imprisonment. If Azalin manages to lure and trap Firan in Castle Avernus, he may be able to swap his conciousness with the other half, which will enable him to actually escape the Mists.
 
@@ -590,7 +625,7 @@ I like the idea of Irik being around the Demiplane. If I was DMing, meeting him 
 {{pageNumber,auto}}
 {{footnote,color CHAPTER 1 | AZALIN REX }}
 \page
-{{imageMaskEdge1,--offset:8%,--rotation:180
+{{imageMaskEdge1,--offset:5%,--rotation:180
 ![](X){position:absolute,top:-1%,left:-1%,width:102%,mix-blend-mode:multiply,filter:grayscale(0),filter:brightness(0.6)}
 }}
  
@@ -631,9 +666,7 @@ Spells that raise, create, or control the undead are stronger in Darkon. Each su
 {{pageNumber,auto}}
 {{footnote CHAPTER 2 | DARKON }}
 \page
-
-
-{{imageMaskEdge1,--offset:8%,--rotation:180
+{{imageMaskEdge1,--offset:5%,--rotation:180
 ![](https://github.com/Vengrath97/Sons-of-Azalin/raw/main/Images%20by%20Chapter/Brautslava%20Instititute/Chapter%20Header.webp){position:absolute,top:-1%,left:-1%,width:102%,mix-blend-mode:multiply,filter:grayscale(0),filter:brightness(0.6)}
 }}
  
@@ -665,8 +698,7 @@ The most knowledgable, but insane of the Fraternity of Shadows. (The Darkness II
 {{pageNumber,auto}}
 {{footnote CHAPTER 3 | Brautslava Institute }}
 \page
-
-{{imageMaskEdge1,--offset:8%,--rotation:180
+{{imageMaskEdge1,--offset:5%,--rotation:180
 ![](){position:absolute,top:-1%,left:-1%,width:102%,mix-blend-mode:multiply,filter:brightness(0.6)}
 }}
  
@@ -708,8 +740,7 @@ The most knowledgable, but insane of the Fraternity of Shadows. (The Darkness II
 {{pageNumber,auto}}
 {{footnote CHAPTER 4 | CASTLE AVERNUS }}
 \page
-
-{{imageMaskEdge1,--offset:8%,--rotation:180
+{{imageMaskEdge1,--offset:5%,--rotation:180
 ![](){position:absolute,top:-1%,left:-1%,width:102%,mix-blend-mode:multiply,filter:brightness(0.6)}
 }}
  
@@ -737,8 +768,7 @@ The most knowledgable, but insane of the Fraternity of Shadows. (The Darkness II
 {{pageNumber,auto}}
 {{footnote CHAPTER 5 | CORVIA }}
 \page
-
-{{imageMaskEdge1,--offset:8%,--rotation:180
+{{imageMaskEdge1,--offset:5%,--rotation:180
 ![](){position:absolute,top:-20%,left:-1%,width:102%,mix-blend-mode:multiply,filter:brightness(0.6)}
 }}
  
@@ -762,7 +792,7 @@ The most knowledgable, but insane of the Fraternity of Shadows. (The Darkness II
 {{pageNumber,auto}}
 {{footnote CHAPTER 6 | CREEANA }}
 \page
-{{imageMaskEdge1,--offset:8%,--rotation:180
+{{imageMaskEdge1,--offset:5%,--rotation:180
 ![](){position:absolute,top:-20%,left:-1%,width:102%,mix-blend-mode:multiply,filter:brightness(0.6)}
 }}
  
@@ -788,9 +818,7 @@ The most knowledgable, but insane of the Fraternity of Shadows. (The Darkness II
 {{pageNumber,auto}}
 {{footnote CHAPTER 7 | DELAGIA }}
 \page
-
-
-{{imageMaskEdge1,--offset:8%,--rotation:180
+{{imageMaskEdge1,--offset:5%,--rotation:180
 ![](){position:absolute,top:-1%,left:-1%,width:102%,mix-blend-mode:multiply,filter:grayscale(0)}
 }}
  
@@ -859,9 +887,7 @@ The most knowledgable, but insane of the Fraternity of Shadows. (The Darkness II
 {{pageNumber,auto}}
 {{footnote CHAPTER 8 | IL ALUK }}
 \page
-
-
-{{imageMaskEdge1,--offset:8%,--rotation:180
+{{imageMaskEdge1,--offset:5%,--rotation:180
 ![](https://github.com/Vengrath97/Sons-of-Azalin/raw/main/Images%20by%20Chapter/Karg/Chapter%20Header.webp){position:absolute,top:-1%,left:-1%,width:102%,mix-blend-mode:multiply,filter:grayscale(0),filter:brightness(0.6)}
 }}
  
@@ -891,7 +917,7 @@ The most knowledgable, but insane of the Fraternity of Shadows. (The Darkness II
 {{pageNumber,auto}}
 {{footnote CHAPTER 9 | KARG }}
 \page
-{{imageMaskEdge1,--offset:8%,--rotation:180
+{{imageMaskEdge1,--offset:5%,--rotation:180
 ![](https://github.com/Vengrath97/Sons-of-Azalin/blob/main/Images%20by%20Chapter/Martira%20Bay/Martira%20Bay.png?raw=true){position:absolute,top:-6%,left:-10%,width:112%,mix-blend-mode:multiply,filter:grayscale(0),filter:brightness(0.6)}
 }}
  
@@ -938,19 +964,121 @@ Lady Mayor **Baroness Karimana Reldkasen** is a competent, ambitious woman who l
 {{pageNumber,auto}}
 {{footnote CHAPTER 10 | MATRIRA BAY }}
 \page
+![hidden map](https://i.imgur.com/OYWQOHP.jpeg){buried-image}
 
+{{wide,map-template,style=background-image:url(https://i.imgur.com/foh3pt0.png)
+{{label,left:47%,top:33% 1}}
+{{label,left:44.8%,top:14% 2}}
+{{label,left:39.5%,top:19% 3}}
+{{label,left:50.5%,top:14% 4}}
+{{label,left:55.5%,top:19% 5}}
+{{label,left:14.5%,top:13% 6}}
+{{label,left:18%,top:18% 7}}
+{{label,left:9%,top:18% 8}}
+{{label,left:7.6%,top:25.3% 9}}
+{{label,left:11.4%,top:30.0% 10}}
+{{label,left:16.4%,top:30.0% 11}}
+{{label,left:19.3%,top:25.2% 12}}
+{{label,left:79.3%,top:15.2% 13}}
+{{label,left:73.3%,top:17.2% 14}}
+{{label,left:74.3%,top:29.2% 15}}
+{{label,left:87.3%,top:29.2% 16}}
+{{label,left:88.3%,top:17.2% 17}}
+{{label,left:83.3%,top:15.2% 18}}
+{{label,left:47.7%,top:71% 19}}
+{{label,left:41%,top:66% 20}}
+{{label,left:54%,top:66% 21}}
+{{label,left:47.5%,top:81% 22}}
+{{label,left:76%,top:63% 23}}
+{{label,left:81%,top:71% 24}}
+{{label,left:87%,top:63% 25}}
+{{label,left:87%,top:77% 26}}
+{{label,left:75%,top:77% 27}}
+}}
 
+{{position:absolute,descriptive,width:254px,margin-left:-30px,margin-top:-300px
+
+**Ground Floor**  
+1 - Tower Entrance  
+2 - Stairway to 1st Floor  
+3 - Armory  
+4 - Stairways to Dungeon  
+5 - Interrogation Room  
+:
+**Dungeon**  
+6 - Stairway to the Ground Floor  
+7-11 - Holding Cells  
+12 - Thinker's Cell  
+:
+**1st Floor**  
+13 - Stairway to the Ground Floor  
+14 - Briefing Room  
+15 - Barracks  
+16 - Training Room  
+17 - Archives  
+18 - Stairway to 2nd Floor  
+:
+**2nd Floor**  
+19 - Stairways  
+20 - Alchemy Lab  
+21 - ??  
+22 - Library  
+:
+**3rd Floor**  
+23 - Stairways to 2nd Floor  
+24 - Connector Room  
+25 - Alcio's Office  
+26 - Baron's Office  
+27 - Ritual Chamber  
+}}
+\column
+:
+
+### The Black Tower
+
+Bla bla placeholder for general description of what The Black Tower is, and where it is located. Maybe why the party is going to want to enter it.
+#### 1 - Tower Entrance  
+Ipsum Lorem Maledictum hokups pokus czary mary twoja stara to twój stary. 
+{{descriptive
+Khardimon fatahn shatan khatan Beliar, faraon szatan browar i hajs Beliar, lemoniady dzban i naczosy "Raven", przelotny katar i kij w dupe Innos!
+}}
+{{quote
+Poprowadzę smoki na kontynent! Ha ha ha ha! Pomoże mi w tym mój mały asortyment! Będę dowodził armiami Beliara - nie jesteś dla mnie wyzwaniem, więc nara!
+{{attribution *Pan Dupa, a nie Pan Kruk*}}
+}}
 
 {{pageNumber,auto}}
 {{footnote CHAPTER 10 | MATRIRA BAY }}
 \page
 
+#### 2 - Stairway to 1st Floor  
+#### 3 - Armory  
+#### 4 - Stairways to Dungeon  
+#### 5 - Interrogation Room  
+#### 6 - Stairway to the Ground Floor  
+#### 7-11 - Holding Cells  
+#### 12 - Thinker's Cell  
+#### 13 - Stairway to the Ground Floor  
+#### 14 - Briefing Room  
+#### 15 - Barracks   
+#### 16 - Training Room  
+#### 17 - Archives  
+#### 18 - Stairway to 2nd Floor  
+#### 19 - Stairways  
+#### 20 - Alchemy Lab  
+#### 21 - ??  
+#### 22 - Library  
+#### 23 - Stairways to 2nd Floor  
+#### 24 - Connector Room  
+#### 25 - Alcio's Office  
+#### 26 - Baron's Office  
+#### 27 - Ritual Chamber 
 
 
 {{pageNumber,auto}}
 {{footnote CHAPTER 10 | MATRIRA BAY }}
 \page
-{{imageMaskEdge1,--offset:8%,--rotation:180
+{{imageMaskEdge1,--offset:5%,--rotation:180
 ![](){position:absolute,top:-20%,left:-1%,width:102%,mix-blend-mode:multiply,filter:brightness(0.6)}
 }}
  
@@ -980,8 +1108,7 @@ Lady Mayor **Baroness Karimana Reldkasen** is a competent, ambitious woman who l
 {{pageNumber,auto}}
 {{footnote CHAPTER 11 | MAYKLE }}
 \page
-
-{{imageMaskEdge1,--offset:8%,--rotation:180
+{{imageMaskEdge1,--offset:5%,--rotation:180
 ![](){position:absolute,top:-20%,left:-1%,width:102%,mix-blend-mode:multiply,filter:brightness(0.6)}
 }}
  
@@ -1133,6 +1260,25 @@ Lady Mayor **Baroness Karimana Reldkasen** is a competent, ambitious woman who l
 {{pageNumber,auto}}
 {{footnote CHAPTER 16 | NEVUCHAR SPRINGS }}
 \page
+![hidden map](https://i.imgur.com/OYWQOHP.jpeg){buried-image}
+
+{{wide,map-template,style=background-image:url(https://i.imgur.com/wtQJdhQ.jpeg)
+{{label,left:78%,top:26% 1}}
+{{label,left:96%,top:18% 2}}
+{{label,left:59%,top:26% 3}}
+{{label,left:16%,top:25% 4}}
+}}
+
+{{position:absolute,descriptive,width:254px,margin-left:-30px,margin-top:-150px
+
+**Ground Floor**  
+1 - The Baths  
+2 - Nevuchar Shrine  
+3 - Library Pharmaeologae  
+4 - The Last Redoubt   
+}}
+
+
 
 {{pageNumber,auto}}
 {{footnote CHAPTER 16 | NEVUCHAR SPRINGS }}
@@ -1223,6 +1369,18 @@ Lady Mayor **Baroness Karimana Reldkasen** is a competent, ambitious woman who l
 {{pageNumber,auto}}
 {{footnote CHAPTER 19 | SIDNAR }}
 \page
+![hidden map](https://i.imgur.com/OYWQOHP.jpeg){buried-image}
+
+{{wide,map-template,style=background-image:url(https://i.imgur.com/Cs1AT5u.jpeg)
+{{label,left:48%,top:47% 1}}
+{{label,left:22.5%,top:37% 2}}
+}}
+
+{{position:absolute,descriptive,width:254px,right:30px,margin-top:-200px
+**Village of Sidnar**  
+1 - Main Plaza  
+2 - Hausenhaus  
+}}
 
 {{pageNumber,auto}}
 {{footnote CHAPTER 19 | SIDNAR }}
@@ -2298,7 +2456,7 @@ The vampire can take 3 legendary actions, choosing from the options below. Only 
 
 \page
 {{imageMaskEdge4,--offset:4%,--rotation:90
-![](https://github.com/Vengrath97/Sons-of-Azalin/blob/main/Images%20by%20Chapter/Appendix%20Characters/Lady%20Kazandra.png?raw=true) {position:absolute,height:125%,left:-30%,top:-1%,filter:grayscale(0),filter:brightness(0.6)}
+![](https://github.com/Vengrath97/Sons-of-Azalin/blob/main/Images%20by%20Chapter/Appendix%20Characters/Lady%20Kazandra.png?raw=true) {position:absolute,height:125%,left:-27%,top:-1%,filter:grayscale(0),filter:brightness(0.6)}
 }}
 \column
 ## Lady Kazandra
@@ -2420,7 +2578,7 @@ When fighting inside her lair, Lady Kazandra can invoke the ambient magic to tak
 ***Criminal Mastermind,  
 Playing Cards Figure***
 :
-Sweet and innocent-looking, the Queen of Hearts is a ruthless psychopath. Blonde hair, cut at chin-length, are neatly tied behind her head, two large, azure eyes seem to gleam with childish innocence, small nose hangs above narrow, pink smile. The Queen of Hearts wears elegant, turquose dresses with red accents, most often than not revealing her sharp clavicles, and a ruby-decorated crown. Always in her hand, a playing card - with her own likeness: A Queen of Hearts.
+Sweet and innocent-looking, the Queen of Hearts is a ruthless psychopath. Blonde hair, cut at chin-length, are neatly tied behind her head, two large, azure eyes seem to gleam with childish innocence, small nose hangs above narrow, pink smile. The Queen of Hearts wears elegant, turquose dresses with red accents, most often than not revealing her sharp clavicles, and a ruby-decorated crown. Always in her hand, a playing card with her own likeness.
 :
 **Gender:** :: Female
 **Race:** :: Formely human
@@ -2439,7 +2597,7 @@ Sweet and innocent-looking, the Queen of Hearts is a ruthless psychopath. Blonde
 ::
 {{note
 ##### Tips:
-* Create encounters based not on brute force, but the precise knowledge of all of the player character weaknesses. Exploit them as ruthlessly as possible.
+* Create encounters based not on brute force, but the precise knowledge of all of the player character weaknesses. Exploit them ruthlessly.
 * Never attack without the full picture. Don't trust anyone but yourself. 
 * Stalk your pray. They cannot fight, what they cannot see.
 }}
@@ -2475,9 +2633,7 @@ Visual Description
 
 {{note
 ##### Tips:
-* Incorporate elements from Darkon, such as the Forest of Shadows, lycanthropic lore, and the haunting influence of the Whistling Fiend.
-* Create encounters with Galf's gang, including werebears, werewolves, and wererats.
-* Explore the theme of betrayal and the consequences of dark powers in Ravenloft.
+
 }}
 
 
@@ -2530,3 +2686,133 @@ Galf can take 3 legendary actions, choosing from the options below. Only one leg
 {{pageNumber,auto}}
 {{footnote APPENDIX X | IMPORTANT CHARACTERS }}
 \page
+![hidden map](https://i.imgur.com/OYWQOHP.jpeg){buried-image}
+
+{{wide,map-template,style=background-image:url(https://i.imgur.com/Cs1AT5u.jpeg)
+{{label,left:47%,top:33% 1}}
+{{label,left:44.5%,top:14% 2}}
+}}
+
+{{position:absolute,descriptive,width:254px,margin-left:-30px,margin-top:-200px
+**Village of Sidnar**  
+1 -  
+2 -  
+}}
+
+\page
+{{monster,frame,wide
+{{wide
+## Ceaseless Discharge
+*Large elemental, unaligned*
+}}
+___
+**Armor Class** :: 15
+**Hit Points** :: 75 (10d10+20)
+**Speed** :: fly 60 ft. (hover)
+___
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|10 (+0)|20 (+5)|14 (+2)|6 (-2)|10 (+0)|6 (-2)|
+___
+**Senses** :: blindsight 120 ft. (blind beyond this radius)
+**Damage Resistances** :: Lightning; Bludgeoning, Piercing, and Slashing from Nonmagical Attacks
+**Damage Immunities** :: Thunder
+**Condition Immunities** ::  Exhaustion, Grappled, Paralyzed, Petrified, Poisoned, Prone, Restrained, Unconscious
+**Languages** :: auran
+**Challenge** :: 5
+___
+***Regeneration.*** The Ceaseless Discharge regains 10 hit points at the start of its turn. If the Ceaseless Discharge starts it's turn in a zone of Silence spell or similar effect, this trait doesn't function.
+:
+***Thunderous Aura.*** Whenever a creature enters a 30-foot radius centered on the Thunderclap Ravager or starts its turn within this area, it takes 4d8 thunder damage, halved on a successfull DC 14 Constitution saving throw. 
+:
+***Vulnerability to Silence.*** While within an area of the *silence* spell, the Thunderclap Ravager is vulnerable to all damage.
+
+### Actions
+***Reel.*** All creatures within 60 ft. range of the Ceaseless Discharge must make a DC 14 Strength saving throw, or be pulled 30 ft. towards the Ceaseless Discharge.
+
+### Legendary Actions
+The Ceaseless Discharge can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. The Ceaseless Discharge regains spent legendary actions at the start of its turn.
+:
+**Move.** The vampire moves up to its speed without provoking opportunity attacks.
+}}
+
+
+\page
+
+## The Thinker
+***Psychic with limitless potential***
+:
+Visual Description
+
+**Gender:** :: Male
+**Race:** :: Half-Elf
+**Age:** :: 34
+**Values:** :: 
+**Personality** :: 
+**Trait:** ::
+**Mannerism:** :: Limitless psionic potential
+**Talent:** ::
+**Flaw or Secret:** ::
+**Occupation and history:** :: Imprisoned by Baron Metus, tortured and maimed in The Black Tower
+**Base of operations:** :: n/a
+**Allies:** :: none
+**Enemies:** :: Kargat, especially Baron Metus and Alcio Metus, Kargatane, especially Lady Kazandra
+:
+
+{{note
+##### Tips:
+
+}}
+\column
+
+{{monster,frame,top:-9%
+## The Thinker
+*Medium humanoid (elf), neutral good*
+___
+**Armor Class** :: 6 (11 with Future Glimpse)
+**Hit Points** :: 15 (6d8 - 12)
+**Speed** :: 0 ft., fly 10 ft. (hover)
+___
+|STR|DEX|CON|INT|WIS|CHA|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+|8 (-1)|3 (-4)|7 (-2)|20 (+5)|19 (+4)|15 (+2)|
+___
+**Saving Throws** :: Intelligence +8, Wisdom + 7, Charisma +5
+**Skills** :: Arcana +9, Insight +10, Perception +10
+**Senses** :: blindsight 60ft (blind beyond this radius), passive Perception 20
+**Languages** :: Common, Darkonese, telepathy 120 ft.
+**Challenge** :: 6 (2,300 XP)
+___
+
+**Innate Spellcasting (Psionics)**: The Thinker’s innate spellcasting ability is Intelligence (spell save DC 16). It can innately cast the following spells, requiring no components:
+
+**At will:** :: detect magic, detect evil and good, detect thoughts
+
+**3/day each:** :: augury, levitate, see invisibility
+
+**2/day each:** :: clairvoiance, divination
+
+**1/day each:** :: legend lore, scrying
+
+***Future Glimpse*** The Thinker adds his Intelligence modifier to his Armor Class, unless he is restrained or unconcious.
+:
+***Telepathic Bond.*** The Thinker can form a telepathic bond with willing creatures he can see within 120 feet of it. This bond allows the creatures to communicate telepathically with each other while they are within 1 mile of each other.
+:
+***Psychic Resistance.*** The Thinker has advantage on saving throws against being charmed or frightened, and he is immune to being put to sleep by magic.
+:
+***Inscrutable Mind.*** The Thinker is immune to any effect that would sense his emotions or read his thoughts, as well as any divination spell that it refuses.
+
+
+### Actions
+***Psychic Blast.*** Ranged Spell Attack: +8 to hit, range 60 ft., one target. *Hit:* 16 (3d10) psychic damage. *Miss:* 5 (1d10) psychic damage.
+:
+***Psychic Barrage.*** The Thinker unleashes a wave of psychic energy in a 15-foot cone. Each creature in that area must make a DC 16 Intelligence saving throw, taking 21 (6d6) psychic damage on a failed save, or half as much damage on a successful one.
+:
+***Invisible Hand.*** The Thinker can telekinetically manipulate objects or creatures within 30 feet of it, lifting or moving them as if with an unseen hand. This ability functions like the *mage hand* spell, but with a range of 30 feet and a maximum weight of 30 pounds.
+
+### Bonus Actions
+***Predictive Insights.*** The Thinker can use its action to analyze a creature within 60 feet of it. The creature must succeed on a DC 16 Wisdom saving throw or have disadvantage on attack rolls against The Thinker until the start of The Thinker's next turn.
+
+### Reactions
+***Psychic Shield.*** When The Thinker is targeted by a spell or effect that deals psychic damage, it can use its reaction to gain resistance to that damage type until the end of its next turn.
+}}
