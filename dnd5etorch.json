@@ -1,0 +1,27 @@
+{
+  "dnd5e": {
+    "system": "dnd5e", // Optional but, if supplied, must match the key above
+    "topology": "standard", // Optional - nearly all systems use standard topology
+    "quantity" : "quantity", // Optional - "quantity" is the default - see notes below
+    "aliases": {
+      "Lantern (Bullseye)": "Bullseye Lantern",
+      "Lantern (Hooded)": "Hooded Lantern"
+    },
+    "sources": {
+      "Candle": {
+        "name": "Candle",
+        "type": "equipment",
+        "consumable": true,
+        "states": 2,
+        "light": [ // If you have only 2 states, you can supply a single set of light stats rather than an array
+          { 
+            "bright": 10, "dim": 15, "angle": 360, "color": "#ff9329", "alpha": 0.5,
+            "animation": { "type": "torch", "speed": 5, "intensity": 5, "reverse": false } 
+          }
+        ]
+      },
+      // Add additional sources for your system here
+    }
+  },
+  // Add additional systems here
+}
